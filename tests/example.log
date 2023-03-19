@@ -1,0 +1,855 @@
+2023-03-07 00:08:53,882 - page_object.BasePage - INFO - ====== Started: 1678136933 ======
+2023-03-07 00:08:53,882 - page_object.BasePage - INFO - ====== Finished: 1678136933 ======
+2023-03-07 00:08:59,245 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-07 00:09:00,240 - page_object.BasePage - INFO - Check if element ('link text', 'Личный кабинет') is find
+2023-03-07 00:10:03,217 - page_object.BasePage - INFO - ====== Started: 1678137003 ======
+2023-03-07 00:10:03,217 - page_object.BasePage - INFO - ====== Finished: 1678137003 ======
+2023-03-07 00:10:08,325 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-07 00:10:09,222 - page_object.BasePage - INFO - Check if element ('link text', 'Личный кабинет') is find
+2023-03-07 00:21:50,067 - page_object.BasePage - INFO - ====== Started: 1678137710 ======
+2023-03-07 00:21:50,067 - page_object.BasePage - INFO - ====== Finished: 1678137710 ======
+2023-03-07 00:22:19,488 - page_object.BasePage - INFO - ====== Started: 1678137739 ======
+2023-03-07 00:22:19,488 - page_object.BasePage - INFO - ====== Finished: 1678137739 ======
+2023-03-07 00:23:02,452 - page_object.BasePage - INFO - ====== Started: 1678137782 ======
+2023-03-07 00:23:02,452 - page_object.BasePage - INFO - ====== Finished: 1678137782 ======
+2023-03-07 00:23:20,975 - page_object.BasePage - INFO - ====== Started: 1678137800 ======
+2023-03-07 00:23:20,976 - page_object.BasePage - INFO - ====== Finished: 1678137800 ======
+2023-03-07 00:24:01,878 - page_object.BasePage - INFO - ====== Started: 1678137841 ======
+2023-03-07 00:24:01,878 - page_object.BasePage - INFO - ====== Finished: 1678137841 ======
+2023-03-07 00:25:59,129 - page_object.BasePage - INFO - ====== Started: 1678137959 ======
+2023-03-07 00:25:59,129 - page_object.BasePage - INFO - ====== Finished: 1678137959 ======
+2023-03-07 00:26:57,313 - page_object.BasePage - INFO - ====== Started: 1678138017 ======
+2023-03-07 00:26:57,313 - page_object.BasePage - INFO - ====== Finished: 1678138017 ======
+2023-03-07 00:27:01,411 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-07 00:27:02,270 - page_object.BasePage - INFO - Check if element ('link text', 'Личный кабинет') is find
+2023-03-07 00:27:44,259 - page_object.BasePage - INFO - ====== Started: 1678138064 ======
+2023-03-07 00:27:44,259 - page_object.BasePage - INFO - ====== Finished: 1678138064 ======
+2023-03-07 00:27:48,460 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-07 00:27:49,335 - page_object.BasePage - INFO - Check if element ('link text', 'Личный кабинет') is find
+2023-03-07 10:15:54,881 - page_object.BasePage - INFO - ====== Started: 1678173354 ======
+2023-03-07 10:15:54,881 - page_object.BasePage - INFO - ====== Finished: 1678173354 ======
+2023-03-07 10:16:17,421 - page_object.BasePage - INFO - ====== Started: 1678173377 ======
+2023-03-07 10:16:17,421 - page_object.BasePage - INFO - ====== Finished: 1678173377 ======
+2023-03-07 10:37:06,629 - page_object.BasePage - INFO - ====== Started: 1678174626 ======
+2023-03-07 10:37:06,629 - page_object.BasePage - INFO - ====== Finished: 1678174626 ======
+2023-03-07 10:37:16,463 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-07 10:37:17,526 - page_object.BasePage - INFO - Check if element ('link text', 'Личный кабинет') is find
+2023-03-07 10:37:17,796 - page_object.BasePage - INFO - Check if element ('link text', 'Спектакли') is find
+2023-03-07 10:37:47,506 - page_object.BasePage - INFO - ====== Started: 1678174667 ======
+2023-03-07 10:37:47,506 - page_object.BasePage - INFO - ====== Finished: 1678174667 ======
+2023-03-07 10:37:51,653 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-07 10:37:52,193 - page_object.BasePage - INFO - Check if element ('link text', 'Спектакли') is present
+2023-03-07 10:38:52,491 - page_object.BasePage - INFO - ====== Started: 1678174732 ======
+2023-03-07 10:38:52,491 - page_object.BasePage - INFO - ====== Finished: 1678174732 ======
+2023-03-07 10:38:56,749 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-07 10:38:57,717 - page_object.BasePage - INFO - Check if element ('link text', 'Личный кабинет') is find
+2023-03-07 10:38:57,985 - page_object.BasePage - INFO - Check if element ('link text', 'Спектакли') is find
+2023-03-07 10:39:04,800 - page_object.BasePage - INFO - ====== Started: 1678174744 ======
+2023-03-07 10:39:04,801 - page_object.BasePage - INFO - ====== Finished: 1678174744 ======
+2023-03-07 10:39:08,922 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-07 10:39:10,086 - page_object.BasePage - INFO - Check if element ('link text', 'Спектакли') is present
+2023-03-07 10:44:05,361 - page_object.BasePage - INFO - ====== Started: 1678175045 ======
+2023-03-07 10:44:05,361 - page_object.BasePage - INFO - ====== Finished: 1678175045 ======
+2023-03-07 10:44:10,291 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-07 10:44:10,659 - page_object.BasePage - INFO - Check if element ('xpath', '/html/body/header/div/nav[1]/ul/li[1]/a') is present
+2023-03-07 10:44:10,707 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="9d0d724b-7015-4f71-bb3f-3ca445b11ac3", element="fb67e921-e05e-44d7-b233-ae7240a70cf1")>
+2023-03-07 10:49:54,020 - page_object.BasePage - INFO - ====== Started: 1678175394 ======
+2023-03-07 10:49:54,020 - page_object.BasePage - INFO - ====== Finished: 1678175394 ======
+2023-03-07 10:49:59,212 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-07 10:50:46,233 - page_object.BasePage - INFO - ====== Started: 1678175446 ======
+2023-03-07 10:50:46,233 - page_object.BasePage - INFO - ====== Finished: 1678175446 ======
+2023-03-07 10:50:50,418 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-07 10:50:51,288 - page_object.BasePage - INFO - Check if element element is present
+2023-03-07 10:53:08,633 - page_object.BasePage - INFO - ====== Started: 1678175588 ======
+2023-03-07 10:53:08,633 - page_object.BasePage - INFO - ====== Finished: 1678175588 ======
+2023-03-07 10:53:13,977 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-07 10:53:14,329 - page_object.BasePage - INFO - Check if element ('xpath', '/html/body/header/div/nav[1]/ul/li[1]/a') is present
+2023-03-07 10:53:14,426 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="9f1f2c62-942e-4a1c-ae9f-7558d7ca30fc", element="22920ca4-2bc0-4409-bfa8-2976d7ee2bf6")>
+2023-03-07 10:58:36,838 - page_object.BasePage - INFO - ====== Started: 1678175916 ======
+2023-03-07 10:58:36,838 - page_object.BasePage - INFO - ====== Finished: 1678175916 ======
+2023-03-07 10:58:41,844 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-07 11:08:36,017 - page_object.BasePage - INFO - ====== Started: 1678176516 ======
+2023-03-07 11:08:36,017 - page_object.BasePage - INFO - ====== Finished: 1678176516 ======
+2023-03-07 11:08:41,590 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-07 11:08:42,570 - page_object.BasePage - INFO - Check if element ('xpath', '/html/body/header/div/nav[1]/ul/li[1]/a') is present
+2023-03-07 11:08:42,597 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="477819d8-5f1b-4fdb-b4aa-09470e2682d9", element="eaf6cb65-5f8e-446b-928a-8380b741d680")>
+2023-03-07 11:15:06,362 - page_object.BasePage - INFO - ====== Started: 1678176906 ======
+2023-03-07 11:15:06,362 - page_object.BasePage - INFO - ====== Finished: 1678176906 ======
+2023-03-07 11:15:12,497 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-07 11:15:12,864 - page_object.BasePage - INFO - Check if element ('link text', 'Личный кабинет') is find
+2023-03-07 11:15:13,111 - page_object.BasePage - INFO - Check if element ('xpath', '/html/body/header/div/nav[1]/ul/li[1]/a') is find
+2023-03-07 11:15:18,163 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-07 11:15:18,587 - page_object.BasePage - INFO - Check if element ('xpath', '/html/body/header/div/nav[1]/ul/li[1]/a') is present
+2023-03-07 11:15:18,744 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="6fcd71ed-e059-4f2f-b955-6389992c0d82", element="d712385e-1e4d-4b30-bf41-afd96bc7d2b3")>
+2023-03-07 12:04:18,183 - page_object.BasePage - INFO - ====== Started: 1678179858 ======
+2023-03-07 12:04:18,183 - page_object.BasePage - INFO - ====== Finished: 1678179858 ======
+2023-03-07 12:04:23,603 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 12:04:25,063 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 12:04:25,087 - page_object.BasePage - INFO - Input dariatest11@yandex.ru in input <selenium.webdriver.remote.webelement.WebElement (session="8a00a9d6-bd9f-4bd2-82ce-57171983321f", element="df36dd7f-4762-4d89-9150-dee9cd583e29")>
+2023-03-07 12:04:25,087 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="8a00a9d6-bd9f-4bd2-82ce-57171983321f", element="df36dd7f-4762-4d89-9150-dee9cd583e29")>
+2023-03-07 12:04:25,501 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 12:04:25,511 - page_object.BasePage - INFO - Input Qwe123++ in input <selenium.webdriver.remote.webelement.WebElement (session="8a00a9d6-bd9f-4bd2-82ce-57171983321f", element="e2edb19c-ceec-4c18-9144-179f37f67f1e")>
+2023-03-07 12:04:25,511 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="8a00a9d6-bd9f-4bd2-82ce-57171983321f", element="e2edb19c-ceec-4c18-9144-179f37f67f1e")>
+2023-03-07 12:04:25,922 - page_object.BasePage - INFO - Check if element ('name', 'Войти') is present
+2023-03-07 12:06:07,170 - page_object.BasePage - INFO - ====== Started: 1678179967 ======
+2023-03-07 12:06:07,170 - page_object.BasePage - INFO - ====== Finished: 1678179967 ======
+2023-03-07 12:06:12,466 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 12:06:13,984 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 12:06:14,021 - page_object.BasePage - INFO - Input dariatest11@yandex.ru in input <selenium.webdriver.remote.webelement.WebElement (session="5831212f-cc57-4032-bbb7-f6feddbea193", element="807e0d50-f6ff-4514-b522-47b74c89035e")>
+2023-03-07 12:06:14,022 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="5831212f-cc57-4032-bbb7-f6feddbea193", element="807e0d50-f6ff-4514-b522-47b74c89035e")>
+2023-03-07 12:06:14,452 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 12:06:14,462 - page_object.BasePage - INFO - Input Qwe123++ in input <selenium.webdriver.remote.webelement.WebElement (session="5831212f-cc57-4032-bbb7-f6feddbea193", element="5cd663f4-63b0-48b0-879c-d2bc19ac6bff")>
+2023-03-07 12:06:14,462 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="5831212f-cc57-4032-bbb7-f6feddbea193", element="5cd663f4-63b0-48b0-879c-d2bc19ac6bff")>
+2023-03-07 12:06:14,870 - page_object.BasePage - INFO - Check if element ('link text', 'Войти') is present
+2023-03-07 12:09:09,857 - page_object.BasePage - INFO - ====== Started: 1678180149 ======
+2023-03-07 12:09:09,857 - page_object.BasePage - INFO - ====== Finished: 1678180149 ======
+2023-03-07 12:09:14,839 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 12:09:16,219 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 12:09:16,252 - page_object.BasePage - INFO - Input dariatest11@yandex.ru in input <selenium.webdriver.remote.webelement.WebElement (session="47d9ac66-db03-4778-99e3-ed3ee2348b61", element="c4a0dba2-75e6-4406-9ee7-1cd7a501d75a")>
+2023-03-07 12:09:16,252 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="47d9ac66-db03-4778-99e3-ed3ee2348b61", element="c4a0dba2-75e6-4406-9ee7-1cd7a501d75a")>
+2023-03-07 12:09:16,677 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 12:09:16,687 - page_object.BasePage - INFO - Input Qwe123++ in input <selenium.webdriver.remote.webelement.WebElement (session="47d9ac66-db03-4778-99e3-ed3ee2348b61", element="0ef6a37f-0a00-4bf8-89a1-d7a3ba5b0b2e")>
+2023-03-07 12:09:16,687 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="47d9ac66-db03-4778-99e3-ed3ee2348b61", element="0ef6a37f-0a00-4bf8-89a1-d7a3ba5b0b2e")>
+2023-03-07 12:09:17,079 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 12:09:17,096 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="47d9ac66-db03-4778-99e3-ed3ee2348b61", element="2c7957a7-32da-4be6-a61c-557ee12ff724")>
+2023-03-07 12:10:54,503 - page_object.BasePage - INFO - ====== Started: 1678180254 ======
+2023-03-07 12:10:54,503 - page_object.BasePage - INFO - ====== Finished: 1678180254 ======
+2023-03-07 12:10:59,642 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 12:11:00,907 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is find
+2023-03-07 12:11:00,922 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is find
+2023-03-07 12:11:00,925 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is find
+2023-03-07 12:11:36,675 - page_object.BasePage - INFO - ====== Started: 1678180296 ======
+2023-03-07 12:11:36,675 - page_object.BasePage - INFO - ====== Finished: 1678180296 ======
+2023-03-07 12:11:40,143 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 12:11:41,728 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 12:11:41,756 - page_object.BasePage - INFO - Input dariatest11@yandex.ru in input <selenium.webdriver.remote.webelement.WebElement (session="4abb92e9-eaba-4e4a-9b0c-54b67913ba74", element="d15d76fd-67c0-4c36-95a2-0ded08055b67")>
+2023-03-07 12:11:41,757 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="4abb92e9-eaba-4e4a-9b0c-54b67913ba74", element="d15d76fd-67c0-4c36-95a2-0ded08055b67")>
+2023-03-07 12:11:42,165 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 12:11:42,175 - page_object.BasePage - INFO - Input Qwe123++ in input <selenium.webdriver.remote.webelement.WebElement (session="4abb92e9-eaba-4e4a-9b0c-54b67913ba74", element="91948485-b20d-45b2-9578-316f671dec86")>
+2023-03-07 12:11:42,175 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="4abb92e9-eaba-4e4a-9b0c-54b67913ba74", element="91948485-b20d-45b2-9578-316f671dec86")>
+2023-03-07 12:11:42,562 - page_object.BasePage - INFO - Check if element ('css selector', 'registration-button') is present
+2023-03-07 12:12:23,068 - page_object.BasePage - INFO - ====== Started: 1678180343 ======
+2023-03-07 12:12:23,068 - page_object.BasePage - INFO - ====== Finished: 1678180343 ======
+2023-03-07 12:12:27,838 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 12:12:29,186 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 12:12:29,222 - page_object.BasePage - INFO - Input dariatest11@yandex.ru in input <selenium.webdriver.remote.webelement.WebElement (session="50369a5e-b1a2-4d51-9f0c-d0128262a4f6", element="c47eec9f-60a9-4271-a3d0-89acd33efb40")>
+2023-03-07 12:12:29,222 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="50369a5e-b1a2-4d51-9f0c-d0128262a4f6", element="c47eec9f-60a9-4271-a3d0-89acd33efb40")>
+2023-03-07 12:12:29,635 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 12:12:29,645 - page_object.BasePage - INFO - Input Qwe12345++ in input <selenium.webdriver.remote.webelement.WebElement (session="50369a5e-b1a2-4d51-9f0c-d0128262a4f6", element="c8e9c6dd-3132-4fc7-91e1-4f913e5d47f7")>
+2023-03-07 12:12:29,645 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="50369a5e-b1a2-4d51-9f0c-d0128262a4f6", element="c8e9c6dd-3132-4fc7-91e1-4f913e5d47f7")>
+2023-03-07 12:12:30,037 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 12:12:30,052 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="50369a5e-b1a2-4d51-9f0c-d0128262a4f6", element="7df3c337-4330-4f52-abec-7e1482becacc")>
+2023-03-07 12:26:28,496 - page_object.BasePage - INFO - ====== Started: 1678181188 ======
+2023-03-07 12:26:28,496 - page_object.BasePage - INFO - ====== Finished: 1678181188 ======
+2023-03-07 12:26:34,242 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 12:26:52,349 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 12:26:52,389 - page_object.BasePage - INFO - Input dariatest11@yandex.ru in input <selenium.webdriver.remote.webelement.WebElement (session="0c966499-6d71-48d4-9c25-663c356a166f", element="0c4d2a6a-5eaa-4969-a798-c235eb43abb2")>
+2023-03-07 12:26:52,390 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="0c966499-6d71-48d4-9c25-663c356a166f", element="0c4d2a6a-5eaa-4969-a798-c235eb43abb2")>
+2023-03-07 12:26:52,807 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 12:26:52,819 - page_object.BasePage - INFO - Input Qwe12345++ in input <selenium.webdriver.remote.webelement.WebElement (session="0c966499-6d71-48d4-9c25-663c356a166f", element="d3b6e5c7-231d-419a-bdd5-0199ada936e4")>
+2023-03-07 12:26:52,819 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="0c966499-6d71-48d4-9c25-663c356a166f", element="d3b6e5c7-231d-419a-bdd5-0199ada936e4")>
+2023-03-07 12:26:53,226 - page_object.BasePage - INFO - Check if element ('css selector', 'registration-button mobile-btn') is present
+2023-03-07 12:27:28,560 - page_object.BasePage - INFO - ====== Started: 1678181248 ======
+2023-03-07 12:27:28,561 - page_object.BasePage - INFO - ====== Finished: 1678181248 ======
+2023-03-07 12:28:07,388 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 12:28:08,852 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 12:28:08,891 - page_object.BasePage - INFO - Input dariatest11@yandex.ru in input <selenium.webdriver.remote.webelement.WebElement (session="bd57c947-759b-4850-9d02-db8ce3a433ef", element="b5b2ac0f-abf7-4a02-a4eb-2e550b3aa94e")>
+2023-03-07 12:28:08,892 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="bd57c947-759b-4850-9d02-db8ce3a433ef", element="b5b2ac0f-abf7-4a02-a4eb-2e550b3aa94e")>
+2023-03-07 12:28:09,311 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 12:28:09,320 - page_object.BasePage - INFO - Input Qwe12345++ in input <selenium.webdriver.remote.webelement.WebElement (session="bd57c947-759b-4850-9d02-db8ce3a433ef", element="b64d4e79-e292-4b9f-8279-c1cfdba2b79f")>
+2023-03-07 12:28:09,320 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="bd57c947-759b-4850-9d02-db8ce3a433ef", element="b64d4e79-e292-4b9f-8279-c1cfdba2b79f")>
+2023-03-07 12:28:09,739 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button mobile-btn') is present
+2023-03-07 12:28:53,035 - page_object.BasePage - INFO - ====== Started: 1678181333 ======
+2023-03-07 12:28:53,035 - page_object.BasePage - INFO - ====== Finished: 1678181333 ======
+2023-03-07 12:28:58,533 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 12:29:00,115 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 12:29:00,152 - page_object.BasePage - INFO - Input dariatest11@yandex.ru in input <selenium.webdriver.remote.webelement.WebElement (session="1414558b-33e5-430e-9137-6efb5cbfcc5d", element="70421987-cb83-4e7c-ad50-cf1790041af7")>
+2023-03-07 12:29:00,152 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="1414558b-33e5-430e-9137-6efb5cbfcc5d", element="70421987-cb83-4e7c-ad50-cf1790041af7")>
+2023-03-07 12:29:00,582 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 12:29:00,593 - page_object.BasePage - INFO - Input Qwe12345++ in input <selenium.webdriver.remote.webelement.WebElement (session="1414558b-33e5-430e-9137-6efb5cbfcc5d", element="f647b20d-eb5a-4029-9e38-864cb2e9db4d")>
+2023-03-07 12:29:00,593 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="1414558b-33e5-430e-9137-6efb5cbfcc5d", element="f647b20d-eb5a-4029-9e38-864cb2e9db4d")>
+2023-03-07 12:29:01,006 - page_object.BasePage - INFO - Check if element ('class name', '.registration-button mobile-btn') is present
+2023-03-07 12:29:57,017 - page_object.BasePage - INFO - ====== Started: 1678181397 ======
+2023-03-07 12:29:57,017 - page_object.BasePage - INFO - ====== Finished: 1678181397 ======
+2023-03-07 12:30:02,097 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 12:30:03,569 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 12:30:03,596 - page_object.BasePage - INFO - Input dariatest11@yandex.ru in input <selenium.webdriver.remote.webelement.WebElement (session="fa35f81e-05fa-4955-8d7d-b3ab48593893", element="561edd46-0aa1-4b91-ba1e-954b53e834df")>
+2023-03-07 12:30:03,596 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="fa35f81e-05fa-4955-8d7d-b3ab48593893", element="561edd46-0aa1-4b91-ba1e-954b53e834df")>
+2023-03-07 12:30:04,005 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 12:30:04,017 - page_object.BasePage - INFO - Input Qwe12345++ in input <selenium.webdriver.remote.webelement.WebElement (session="fa35f81e-05fa-4955-8d7d-b3ab48593893", element="3c116c2a-22bc-42e5-9444-652ef2d0da41")>
+2023-03-07 12:30:04,017 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="fa35f81e-05fa-4955-8d7d-b3ab48593893", element="3c116c2a-22bc-42e5-9444-652ef2d0da41")>
+2023-03-07 12:30:04,413 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 12:30:04,427 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="fa35f81e-05fa-4955-8d7d-b3ab48593893", element="2b000b6e-e286-44bd-a1cc-75b1c1149438")>
+2023-03-07 12:30:58,635 - page_object.BasePage - INFO - ====== Started: 1678181458 ======
+2023-03-07 12:30:58,636 - page_object.BasePage - INFO - ====== Finished: 1678181458 ======
+2023-03-07 12:31:15,024 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 12:31:22,330 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 12:31:22,860 - page_object.BasePage - INFO - Input dariatest11@yandex.ru in input <selenium.webdriver.remote.webelement.WebElement (session="c0f947eb49fb8fb5dabd675d5aeabf95", element="cfd0a45c-d5ac-43dc-8645-6f22a82dd1f5")>
+2023-03-07 12:31:22,861 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="c0f947eb49fb8fb5dabd675d5aeabf95", element="cfd0a45c-d5ac-43dc-8645-6f22a82dd1f5")>
+2023-03-07 12:31:25,833 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 12:31:25,906 - page_object.BasePage - INFO - Input Qwe12345++ in input <selenium.webdriver.remote.webelement.WebElement (session="c0f947eb49fb8fb5dabd675d5aeabf95", element="63a6bac1-4c96-4690-bd09-9edf97ca3c20")>
+2023-03-07 12:31:25,906 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="c0f947eb49fb8fb5dabd675d5aeabf95", element="63a6bac1-4c96-4690-bd09-9edf97ca3c20")>
+2023-03-07 12:31:26,502 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 12:31:26,518 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="c0f947eb49fb8fb5dabd675d5aeabf95", element="aeabe321-7940-4b61-886d-2f3a65b830fa")>
+2023-03-07 12:34:27,550 - page_object.BasePage - INFO - ====== Started: 1678181667 ======
+2023-03-07 12:34:27,550 - page_object.BasePage - INFO - ====== Finished: 1678181667 ======
+2023-03-07 12:35:50,961 - page_object.BasePage - INFO - ====== Started: 1678181750 ======
+2023-03-07 12:35:50,962 - page_object.BasePage - INFO - ====== Finished: 1678181750 ======
+2023-03-07 12:36:45,759 - page_object.BasePage - INFO - ====== Started: 1678181805 ======
+2023-03-07 12:36:45,759 - page_object.BasePage - INFO - ====== Finished: 1678181805 ======
+2023-03-07 12:37:13,244 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 12:37:23,447 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is find
+2023-03-07 12:37:23,751 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is find
+2023-03-07 12:37:24,159 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is find
+2023-03-07 12:37:28,377 - page_object.BasePage - INFO - ====== Started: 1678181848 ======
+2023-03-07 12:37:28,377 - page_object.BasePage - INFO - ====== Finished: 1678181848 ======
+2023-03-07 12:37:56,365 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 12:38:02,344 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 12:38:03,321 - page_object.BasePage - INFO - Input dariatest11@yandex.ru in input <selenium.webdriver.remote.webelement.WebElement (session="e29437a2-2d4e-4ab9-880d-4947aa411da8", element="c742a35b-7dc8-466b-8cd0-2757ad12802b")>
+2023-03-07 12:38:03,321 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="e29437a2-2d4e-4ab9-880d-4947aa411da8", element="c742a35b-7dc8-466b-8cd0-2757ad12802b")>
+2023-03-07 12:53:08,800 - page_object.BasePage - INFO - ====== Started: 1678182788 ======
+2023-03-07 12:53:08,800 - page_object.BasePage - INFO - ====== Finished: 1678182788 ======
+2023-03-07 12:53:22,444 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 12:53:34,865 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 12:53:35,516 - page_object.BasePage - INFO - Input dariatest11@yandex.ru in input <selenium.webdriver.remote.webelement.WebElement (session="c48f3c4bbee29308e9019fd47c074fdb", element="7521b45b-724f-40f8-bd29-712f1f71c61a")>
+2023-03-07 12:53:35,516 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="c48f3c4bbee29308e9019fd47c074fdb", element="7521b45b-724f-40f8-bd29-712f1f71c61a")>
+2023-03-07 12:53:36,883 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 12:53:36,913 - page_object.BasePage - INFO - Input Qwe12345++ in input <selenium.webdriver.remote.webelement.WebElement (session="c48f3c4bbee29308e9019fd47c074fdb", element="85be6e2e-2312-4738-bf69-50f89738e562")>
+2023-03-07 12:53:36,914 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="c48f3c4bbee29308e9019fd47c074fdb", element="85be6e2e-2312-4738-bf69-50f89738e562")>
+2023-03-07 12:53:37,416 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 12:53:37,428 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="c48f3c4bbee29308e9019fd47c074fdb", element="e6a9e8d1-7f77-481d-870f-9e21c08d1206")>
+2023-03-07 13:47:42,700 - page_object.BasePage - INFO - ====== Started: 1678186062 ======
+2023-03-07 13:47:42,700 - page_object.BasePage - INFO - ====== Finished: 1678186062 ======
+2023-03-07 13:47:58,186 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 13:48:01,926 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 13:48:03,941 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="921b432fcc8c17a443abb8661af52b08", element="433b5a74-5278-45f6-98f6-43cc1e941ee0")>
+2023-03-07 13:48:03,941 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="921b432fcc8c17a443abb8661af52b08", element="433b5a74-5278-45f6-98f6-43cc1e941ee0")>
+2023-03-07 13:48:05,632 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 13:48:05,656 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="921b432fcc8c17a443abb8661af52b08", element="65e94232-d040-4d83-897a-afa3d4997925")>
+2023-03-07 13:48:05,656 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="921b432fcc8c17a443abb8661af52b08", element="65e94232-d040-4d83-897a-afa3d4997925")>
+2023-03-07 13:48:06,232 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 13:48:06,244 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="921b432fcc8c17a443abb8661af52b08", element="76542aad-55a0-4ac8-8b5c-b3f9509863c5")>
+2023-03-07 13:48:47,888 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 13:48:51,198 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 13:48:51,332 - page_object.BasePage - INFO - Input 123 in input <selenium.webdriver.remote.webelement.WebElement (session="41e20faca7d12808410ff1216d2213b3", element="c9224d12-46c4-4500-8d33-09b3824f91d1")>
+2023-03-07 13:48:51,332 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="41e20faca7d12808410ff1216d2213b3", element="c9224d12-46c4-4500-8d33-09b3824f91d1")>
+2023-03-07 13:48:52,410 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 13:48:52,440 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="41e20faca7d12808410ff1216d2213b3", element="9a48da67-338b-4736-aa24-4ed481212cfd")>
+2023-03-07 13:48:52,440 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="41e20faca7d12808410ff1216d2213b3", element="9a48da67-338b-4736-aa24-4ed481212cfd")>
+2023-03-07 13:48:53,148 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 13:48:53,159 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="41e20faca7d12808410ff1216d2213b3", element="22d11970-d7d0-4ed7-80cd-b63ecb37e9b4")>
+2023-03-07 13:49:08,750 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 13:49:15,702 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 13:49:16,341 - page_object.BasePage - INFO - Input aaa@ya.ru in input <selenium.webdriver.remote.webelement.WebElement (session="5f1d1829adbde14db28fa7ed8a4601d8", element="eb6598e3-eaed-4ad8-b633-8f0c12931342")>
+2023-03-07 13:49:16,341 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="5f1d1829adbde14db28fa7ed8a4601d8", element="eb6598e3-eaed-4ad8-b633-8f0c12931342")>
+2023-03-07 13:49:17,670 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 13:49:17,694 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="5f1d1829adbde14db28fa7ed8a4601d8", element="461261e3-4e9f-4f83-a007-137da9d1e91f")>
+2023-03-07 13:49:17,695 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="5f1d1829adbde14db28fa7ed8a4601d8", element="461261e3-4e9f-4f83-a007-137da9d1e91f")>
+2023-03-07 13:49:18,304 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 13:49:18,319 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="5f1d1829adbde14db28fa7ed8a4601d8", element="453aa21a-9402-49fa-9dc5-dee73b9ce7de")>
+2023-03-07 13:49:33,949 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 13:49:41,630 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 13:49:41,887 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="1f2524f3216ec1e3db4c1d366259e217", element="38321ea6-84e2-4256-bc31-67cfed4cee04")>
+2023-03-07 13:49:41,888 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="1f2524f3216ec1e3db4c1d366259e217", element="38321ea6-84e2-4256-bc31-67cfed4cee04")>
+2023-03-07 13:49:43,362 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 13:49:43,516 - page_object.BasePage - INFO - Input 123 in input <selenium.webdriver.remote.webelement.WebElement (session="1f2524f3216ec1e3db4c1d366259e217", element="ef4c1b73-5e5f-4f14-a667-599708a2251d")>
+2023-03-07 13:49:43,516 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="1f2524f3216ec1e3db4c1d366259e217", element="ef4c1b73-5e5f-4f14-a667-599708a2251d")>
+2023-03-07 13:49:44,085 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 13:49:44,096 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="1f2524f3216ec1e3db4c1d366259e217", element="0f0dc95d-51ef-4ed3-b9e6-fd92237e026d")>
+2023-03-07 13:49:59,802 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 13:50:34,012 - page_object.BasePage - INFO - ====== Started: 1678186234 ======
+2023-03-07 13:50:34,012 - page_object.BasePage - INFO - ====== Finished: 1678186234 ======
+2023-03-07 13:51:15,487 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 13:51:18,889 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 13:51:18,968 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="03f587aa736d7c29c7c37fb064e99cb1", element="245915bb-0a14-4381-a282-9759a3d28a4b")>
+2023-03-07 13:51:18,968 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="03f587aa736d7c29c7c37fb064e99cb1", element="245915bb-0a14-4381-a282-9759a3d28a4b")>
+2023-03-07 13:51:20,034 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 13:51:20,074 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="03f587aa736d7c29c7c37fb064e99cb1", element="ffc0ef2e-d858-4bd4-97ac-8214aadcd4bf")>
+2023-03-07 13:51:20,074 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="03f587aa736d7c29c7c37fb064e99cb1", element="ffc0ef2e-d858-4bd4-97ac-8214aadcd4bf")>
+2023-03-07 13:51:20,539 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 13:51:20,552 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="03f587aa736d7c29c7c37fb064e99cb1", element="85cf4743-9204-4059-8b04-7068286d27df")>
+2023-03-07 13:51:37,310 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 13:51:42,643 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 13:51:43,224 - page_object.BasePage - INFO - Input 123 in input <selenium.webdriver.remote.webelement.WebElement (session="7ee0a0ce13af15786a57fb47404bdef1", element="3a9003ae-4a4e-47da-b8b7-ae0046572eb5")>
+2023-03-07 13:51:43,224 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="7ee0a0ce13af15786a57fb47404bdef1", element="3a9003ae-4a4e-47da-b8b7-ae0046572eb5")>
+2023-03-07 13:51:44,493 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 13:51:44,523 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="7ee0a0ce13af15786a57fb47404bdef1", element="875a572b-0a29-471b-ae1f-ac9e8e305bc1")>
+2023-03-07 13:51:44,523 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="7ee0a0ce13af15786a57fb47404bdef1", element="875a572b-0a29-471b-ae1f-ac9e8e305bc1")>
+2023-03-07 13:51:45,175 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 13:51:45,186 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="7ee0a0ce13af15786a57fb47404bdef1", element="3dd5d0a9-9452-4bd8-a16f-438a873b0ed2")>
+2023-03-07 13:52:02,717 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:00:09,584 - page_object.BasePage - INFO - ====== Started: 1678186809 ======
+2023-03-07 14:00:09,584 - page_object.BasePage - INFO - ====== Finished: 1678186809 ======
+2023-03-07 14:00:28,484 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:00:33,137 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 14:00:33,350 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="fb0f464113dca560a5b1bcd5c7882489", element="8d1358e7-5518-4d99-b780-84823a6d554c")>
+2023-03-07 14:00:33,350 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="fb0f464113dca560a5b1bcd5c7882489", element="8d1358e7-5518-4d99-b780-84823a6d554c")>
+2023-03-07 14:00:34,369 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 14:00:34,421 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="fb0f464113dca560a5b1bcd5c7882489", element="d8ed8e05-fe8b-4956-9ca6-f386c5f32c00")>
+2023-03-07 14:00:34,421 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="fb0f464113dca560a5b1bcd5c7882489", element="d8ed8e05-fe8b-4956-9ca6-f386c5f32c00")>
+2023-03-07 14:00:34,867 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 14:00:34,880 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="fb0f464113dca560a5b1bcd5c7882489", element="9870681b-a1a5-4951-a9a9-f1e895225261")>
+2023-03-07 14:00:35,389 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is present
+2023-03-07 14:00:50,637 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:00:57,283 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 14:00:57,948 - page_object.BasePage - INFO - Input 123 in input <selenium.webdriver.remote.webelement.WebElement (session="578caea0f389e3150d4b627ad5ee56ed", element="b7adafd8-309b-4d83-b320-56f8e90cff2b")>
+2023-03-07 14:00:57,948 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="578caea0f389e3150d4b627ad5ee56ed", element="b7adafd8-309b-4d83-b320-56f8e90cff2b")>
+2023-03-07 14:00:59,172 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 14:00:59,219 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="578caea0f389e3150d4b627ad5ee56ed", element="1d228c25-aed3-46a1-bb5a-270bb1c0d66e")>
+2023-03-07 14:00:59,220 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="578caea0f389e3150d4b627ad5ee56ed", element="1d228c25-aed3-46a1-bb5a-270bb1c0d66e")>
+2023-03-07 14:00:59,860 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 14:00:59,871 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="578caea0f389e3150d4b627ad5ee56ed", element="db564bef-191d-4db6-a0ab-65e3f4ab4b6c")>
+2023-03-07 14:01:00,420 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is present
+2023-03-07 14:01:32,311 - page_object.BasePage - INFO - ====== Started: 1678186892 ======
+2023-03-07 14:01:32,311 - page_object.BasePage - INFO - ====== Finished: 1678186892 ======
+2023-03-07 14:02:13,426 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:02:16,169 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 14:02:16,313 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="25741d82d1796fd195c44696a8746d90", element="67bfefd1-cdf7-4b97-8ca5-b6939b03743e")>
+2023-03-07 14:02:16,313 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="25741d82d1796fd195c44696a8746d90", element="67bfefd1-cdf7-4b97-8ca5-b6939b03743e")>
+2023-03-07 14:02:17,571 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 14:02:17,600 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="25741d82d1796fd195c44696a8746d90", element="00a6fdd4-52d0-4cb5-90f1-badab5432091")>
+2023-03-07 14:02:17,600 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="25741d82d1796fd195c44696a8746d90", element="00a6fdd4-52d0-4cb5-90f1-badab5432091")>
+2023-03-07 14:02:18,454 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 14:02:18,466 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="25741d82d1796fd195c44696a8746d90", element="99b5945f-a9d4-4fbe-adc2-fff99b31944f")>
+2023-03-07 14:02:18,942 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is present
+2023-03-07 14:02:33,901 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:02:40,646 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 14:02:40,924 - page_object.BasePage - INFO - Input 123 in input <selenium.webdriver.remote.webelement.WebElement (session="5111402d3c894b14f51fd461db807669", element="2815193b-151f-4b79-b810-a9dce816c07f")>
+2023-03-07 14:02:40,924 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="5111402d3c894b14f51fd461db807669", element="2815193b-151f-4b79-b810-a9dce816c07f")>
+2023-03-07 14:02:42,528 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 14:02:42,551 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="5111402d3c894b14f51fd461db807669", element="bef4064a-b389-4fb9-a1af-2d87d9557a5d")>
+2023-03-07 14:02:42,552 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="5111402d3c894b14f51fd461db807669", element="bef4064a-b389-4fb9-a1af-2d87d9557a5d")>
+2023-03-07 14:02:43,015 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 14:02:43,028 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="5111402d3c894b14f51fd461db807669", element="ea351a3a-4d6c-4474-954b-b047921e8452")>
+2023-03-07 14:02:43,553 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is present
+2023-03-07 14:02:59,765 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:03:25,968 - page_object.BasePage - INFO - ====== Started: 1678187005 ======
+2023-03-07 14:03:25,968 - page_object.BasePage - INFO - ====== Finished: 1678187005 ======
+2023-03-07 14:03:45,558 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:03:49,275 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 14:03:49,789 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="5b6c6be06107975898bbb107dd7ded07", element="4f361bc0-40a0-42c6-996b-261a9d44d3f6")>
+2023-03-07 14:03:49,789 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="5b6c6be06107975898bbb107dd7ded07", element="4f361bc0-40a0-42c6-996b-261a9d44d3f6")>
+2023-03-07 14:03:50,907 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 14:03:50,934 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="5b6c6be06107975898bbb107dd7ded07", element="97a1a15c-75b6-4696-94bf-052458480c4b")>
+2023-03-07 14:03:50,935 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="5b6c6be06107975898bbb107dd7ded07", element="97a1a15c-75b6-4696-94bf-052458480c4b")>
+2023-03-07 14:03:51,650 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 14:03:51,662 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="5b6c6be06107975898bbb107dd7ded07", element="cd4a848c-88c5-4723-b90e-937102cc2e28")>
+2023-03-07 14:03:52,164 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is present
+2023-03-07 14:04:07,659 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:04:16,849 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 14:04:17,633 - page_object.BasePage - INFO - Input 123 in input <selenium.webdriver.remote.webelement.WebElement (session="99e6894af478f43ab4df708776110993", element="96967cec-e7d9-451d-a8e1-c2c94784585a")>
+2023-03-07 14:04:17,633 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="99e6894af478f43ab4df708776110993", element="96967cec-e7d9-451d-a8e1-c2c94784585a")>
+2023-03-07 14:04:18,845 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 14:04:18,870 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="99e6894af478f43ab4df708776110993", element="cd93ed7a-74e1-499f-9b34-e4c4b6ff0b3a")>
+2023-03-07 14:04:18,871 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="99e6894af478f43ab4df708776110993", element="cd93ed7a-74e1-499f-9b34-e4c4b6ff0b3a")>
+2023-03-07 14:04:19,655 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 14:04:19,666 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="99e6894af478f43ab4df708776110993", element="ea8f151e-2b45-436f-8180-715f40f9517e")>
+2023-03-07 14:04:20,112 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is present
+2023-03-07 14:04:35,590 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:04:50,651 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 14:04:51,272 - page_object.BasePage - INFO - Input aaa@ya.ru in input <selenium.webdriver.remote.webelement.WebElement (session="2dd44b3fd996a01c8d0c2bbd396589d1", element="7d8cce6d-7fee-406e-a07e-9dc7c9257aee")>
+2023-03-07 14:04:51,272 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="2dd44b3fd996a01c8d0c2bbd396589d1", element="7d8cce6d-7fee-406e-a07e-9dc7c9257aee")>
+2023-03-07 14:04:53,955 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 14:04:53,997 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="2dd44b3fd996a01c8d0c2bbd396589d1", element="ca5a1c40-de36-4234-9f23-b7129b855ab8")>
+2023-03-07 14:04:53,997 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="2dd44b3fd996a01c8d0c2bbd396589d1", element="ca5a1c40-de36-4234-9f23-b7129b855ab8")>
+2023-03-07 14:04:54,710 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 14:04:54,723 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="2dd44b3fd996a01c8d0c2bbd396589d1", element="526ad6e1-e065-4757-b111-7254c1c41406")>
+2023-03-07 14:04:55,495 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is present
+2023-03-07 14:06:26,694 - page_object.BasePage - INFO - ====== Started: 1678187186 ======
+2023-03-07 14:06:26,695 - page_object.BasePage - INFO - ====== Finished: 1678187186 ======
+2023-03-07 14:06:42,052 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:06:52,934 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 14:06:53,638 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="6555e3344793f59f87cb33ac64725291", element="18cfb306-cc89-4919-83cf-f5f4d4353179")>
+2023-03-07 14:06:53,638 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="6555e3344793f59f87cb33ac64725291", element="18cfb306-cc89-4919-83cf-f5f4d4353179")>
+2023-03-07 14:06:54,869 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 14:06:54,895 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="6555e3344793f59f87cb33ac64725291", element="486456f4-fb87-494e-b8aa-10bc43b9eb25")>
+2023-03-07 14:06:54,895 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="6555e3344793f59f87cb33ac64725291", element="486456f4-fb87-494e-b8aa-10bc43b9eb25")>
+2023-03-07 14:06:55,449 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 14:06:55,460 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="6555e3344793f59f87cb33ac64725291", element="04b02a8d-ebc5-492e-a462-2b2d2142efc6")>
+2023-03-07 14:06:55,968 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is present
+2023-03-07 14:07:10,663 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:07:19,454 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 14:07:20,034 - page_object.BasePage - INFO - Input 123 in input <selenium.webdriver.remote.webelement.WebElement (session="27f75ce6879586d71a19a210ac7ca262", element="be116c05-41a3-4051-a6b1-8f50bb9259da")>
+2023-03-07 14:07:20,034 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="27f75ce6879586d71a19a210ac7ca262", element="be116c05-41a3-4051-a6b1-8f50bb9259da")>
+2023-03-07 14:07:21,408 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 14:07:21,451 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="27f75ce6879586d71a19a210ac7ca262", element="8f336087-52d5-43ee-9cd4-b15d32a01492")>
+2023-03-07 14:07:21,451 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="27f75ce6879586d71a19a210ac7ca262", element="8f336087-52d5-43ee-9cd4-b15d32a01492")>
+2023-03-07 14:07:21,991 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 14:07:22,002 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="27f75ce6879586d71a19a210ac7ca262", element="8345dbca-26ab-42be-960d-84788a8abee7")>
+2023-03-07 14:07:22,444 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is present
+2023-03-07 14:08:03,443 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:08:08,397 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 14:08:08,530 - page_object.BasePage - INFO - Input aaa@ya.ru in input <selenium.webdriver.remote.webelement.WebElement (session="d26c332955d3e3f18dadce72a75d94fb", element="6f676ca9-e8c2-4889-b793-ac0f74c41c5f")>
+2023-03-07 14:08:08,531 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="d26c332955d3e3f18dadce72a75d94fb", element="6f676ca9-e8c2-4889-b793-ac0f74c41c5f")>
+2023-03-07 14:08:09,665 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 14:08:09,714 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="d26c332955d3e3f18dadce72a75d94fb", element="0173d000-2fbf-452e-b2b0-31c0c065ffb3")>
+2023-03-07 14:08:09,714 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="d26c332955d3e3f18dadce72a75d94fb", element="0173d000-2fbf-452e-b2b0-31c0c065ffb3")>
+2023-03-07 14:08:10,171 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 14:08:10,342 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="d26c332955d3e3f18dadce72a75d94fb", element="06449066-22b1-4011-9d4f-7bb3dd6af6b4")>
+2023-03-07 14:08:10,983 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is present
+2023-03-07 14:08:26,789 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:08:33,774 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 14:08:34,484 - page_object.BasePage - INFO - Input @ya.ru in input <selenium.webdriver.remote.webelement.WebElement (session="6f43fefcadb025671ab98d8e81b31563", element="c211e915-5084-46c8-9f34-5946ffafdb52")>
+2023-03-07 14:08:34,485 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="6f43fefcadb025671ab98d8e81b31563", element="c211e915-5084-46c8-9f34-5946ffafdb52")>
+2023-03-07 14:08:35,603 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 14:08:35,630 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="6f43fefcadb025671ab98d8e81b31563", element="284aef1f-1163-4a35-a1fd-5402f4201bd1")>
+2023-03-07 14:08:35,630 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="6f43fefcadb025671ab98d8e81b31563", element="284aef1f-1163-4a35-a1fd-5402f4201bd1")>
+2023-03-07 14:08:36,196 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 14:08:36,209 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="6f43fefcadb025671ab98d8e81b31563", element="450ee433-70f7-407b-b745-5c362b805efb")>
+2023-03-07 14:08:36,821 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is present
+2023-03-07 14:09:17,969 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:09:20,839 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 14:09:20,984 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="3163ba5c4ddce9c3ca911b3a13053768", element="91603297-ace9-46f3-8428-f9f351cb8fd7")>
+2023-03-07 14:09:20,985 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="3163ba5c4ddce9c3ca911b3a13053768", element="91603297-ace9-46f3-8428-f9f351cb8fd7")>
+2023-03-07 14:09:22,167 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 14:09:22,217 - page_object.BasePage - INFO - Input 123 in input <selenium.webdriver.remote.webelement.WebElement (session="3163ba5c4ddce9c3ca911b3a13053768", element="6f08d50c-74f7-4ebb-b50b-64b39cc14227")>
+2023-03-07 14:09:22,217 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="3163ba5c4ddce9c3ca911b3a13053768", element="6f08d50c-74f7-4ebb-b50b-64b39cc14227")>
+2023-03-07 14:09:22,677 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 14:09:22,828 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="3163ba5c4ddce9c3ca911b3a13053768", element="192dfec6-fba9-4ceb-9a70-22a2dc865aba")>
+2023-03-07 14:09:23,362 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is present
+2023-03-07 14:09:39,631 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:09:44,481 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 14:09:44,726 - page_object.BasePage - INFO - Input 123 in input <selenium.webdriver.remote.webelement.WebElement (session="b0a6df7abb0de71e4656b47ccb4913da", element="485cdc5f-e8ca-48f9-8180-bc265d91853f")>
+2023-03-07 14:09:44,726 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="b0a6df7abb0de71e4656b47ccb4913da", element="485cdc5f-e8ca-48f9-8180-bc265d91853f")>
+2023-03-07 14:09:46,189 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 14:09:46,242 - page_object.BasePage - INFO - Input 123 in input <selenium.webdriver.remote.webelement.WebElement (session="b0a6df7abb0de71e4656b47ccb4913da", element="5a33ae35-a115-4013-867d-c186a0b0fc6e")>
+2023-03-07 14:09:46,242 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="b0a6df7abb0de71e4656b47ccb4913da", element="5a33ae35-a115-4013-867d-c186a0b0fc6e")>
+2023-03-07 14:09:46,790 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 14:09:46,802 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="b0a6df7abb0de71e4656b47ccb4913da", element="ca0244ed-70ca-4422-97c4-515249f5bf79")>
+2023-03-07 14:09:47,230 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is present
+2023-03-07 14:10:02,721 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:10:11,302 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 14:10:11,438 - page_object.BasePage - INFO - Input aaa@ya.ru in input <selenium.webdriver.remote.webelement.WebElement (session="b31ece1ff3c212ee95753775b2ee76dd", element="950a4340-7e49-4228-8af0-18a0d32df477")>
+2023-03-07 14:10:11,438 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="b31ece1ff3c212ee95753775b2ee76dd", element="950a4340-7e49-4228-8af0-18a0d32df477")>
+2023-03-07 14:10:12,759 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 14:10:12,791 - page_object.BasePage - INFO - Input 123 in input <selenium.webdriver.remote.webelement.WebElement (session="b31ece1ff3c212ee95753775b2ee76dd", element="3c8718a5-1264-43a0-875f-90b7a1b95e72")>
+2023-03-07 14:10:12,791 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="b31ece1ff3c212ee95753775b2ee76dd", element="3c8718a5-1264-43a0-875f-90b7a1b95e72")>
+2023-03-07 14:10:13,374 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 14:10:13,385 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="b31ece1ff3c212ee95753775b2ee76dd", element="9855549c-ff75-4a39-a00f-203cf5765018")>
+2023-03-07 14:10:14,060 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is present
+2023-03-07 14:10:30,850 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:10:37,264 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 14:10:37,413 - page_object.BasePage - INFO - Input @ya.ru in input <selenium.webdriver.remote.webelement.WebElement (session="8877c22017b6ffd98ab219d1e2510095", element="63a12272-5acd-4cf0-9107-855643185cf8")>
+2023-03-07 14:10:37,413 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="8877c22017b6ffd98ab219d1e2510095", element="63a12272-5acd-4cf0-9107-855643185cf8")>
+2023-03-07 14:10:38,702 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 14:10:38,746 - page_object.BasePage - INFO - Input 123 in input <selenium.webdriver.remote.webelement.WebElement (session="8877c22017b6ffd98ab219d1e2510095", element="0dea6177-60c9-47f0-b6d8-7f0d609b9361")>
+2023-03-07 14:10:38,747 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="8877c22017b6ffd98ab219d1e2510095", element="0dea6177-60c9-47f0-b6d8-7f0d609b9361")>
+2023-03-07 14:10:39,392 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 14:10:39,404 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="8877c22017b6ffd98ab219d1e2510095", element="ace05ebf-a8da-4c20-80c4-3f00c33c3245")>
+2023-03-07 14:10:40,205 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is present
+2023-03-07 14:10:56,380 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:11:02,828 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 14:11:02,947 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="7ad6f8f5cde0dd82fc4b2766756d009e", element="cffbced9-ffda-45ce-ba45-2cc55758b2e5")>
+2023-03-07 14:11:02,947 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="7ad6f8f5cde0dd82fc4b2766756d009e", element="cffbced9-ffda-45ce-ba45-2cc55758b2e5")>
+2023-03-07 14:11:04,321 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 14:11:04,355 - page_object.BasePage - INFO - Input Qwe in input <selenium.webdriver.remote.webelement.WebElement (session="7ad6f8f5cde0dd82fc4b2766756d009e", element="6f55f62b-b50f-40bf-bbf0-490586cb1c46")>
+2023-03-07 14:11:04,356 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="7ad6f8f5cde0dd82fc4b2766756d009e", element="6f55f62b-b50f-40bf-bbf0-490586cb1c46")>
+2023-03-07 14:11:05,072 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 14:11:05,112 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="7ad6f8f5cde0dd82fc4b2766756d009e", element="35d8c912-83f6-428e-a463-4166b729f216")>
+2023-03-07 14:11:05,645 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is present
+2023-03-07 14:11:46,571 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:11:50,234 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 14:11:50,367 - page_object.BasePage - INFO - Input 123 in input <selenium.webdriver.remote.webelement.WebElement (session="e06509b5e8e601244c37bf5bb26d1b76", element="11ca6d25-cbbf-4c48-95b3-acfb41abb414")>
+2023-03-07 14:11:50,367 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="e06509b5e8e601244c37bf5bb26d1b76", element="11ca6d25-cbbf-4c48-95b3-acfb41abb414")>
+2023-03-07 14:11:51,884 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 14:11:51,912 - page_object.BasePage - INFO - Input Qwe in input <selenium.webdriver.remote.webelement.WebElement (session="e06509b5e8e601244c37bf5bb26d1b76", element="10e272fb-4e25-46e5-a7fd-b368ae764b1d")>
+2023-03-07 14:11:51,913 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="e06509b5e8e601244c37bf5bb26d1b76", element="10e272fb-4e25-46e5-a7fd-b368ae764b1d")>
+2023-03-07 14:11:52,698 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 14:11:52,710 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="e06509b5e8e601244c37bf5bb26d1b76", element="d5ccb262-bd2a-412d-ae08-46c5919e0714")>
+2023-03-07 14:11:53,152 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is present
+2023-03-07 14:12:09,036 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:12:14,971 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 14:12:15,130 - page_object.BasePage - INFO - Input aaa@ya.ru in input <selenium.webdriver.remote.webelement.WebElement (session="f2261c7d21b3f36516fd9216c3ddf135", element="276ed7dc-409e-46b3-8cf9-5024bc7e925f")>
+2023-03-07 14:12:15,131 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="f2261c7d21b3f36516fd9216c3ddf135", element="276ed7dc-409e-46b3-8cf9-5024bc7e925f")>
+2023-03-07 14:12:16,404 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 14:12:16,435 - page_object.BasePage - INFO - Input Qwe in input <selenium.webdriver.remote.webelement.WebElement (session="f2261c7d21b3f36516fd9216c3ddf135", element="3007dac5-6ce6-4d00-b172-4107163b392f")>
+2023-03-07 14:12:16,435 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="f2261c7d21b3f36516fd9216c3ddf135", element="3007dac5-6ce6-4d00-b172-4107163b392f")>
+2023-03-07 14:12:17,176 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 14:12:17,188 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="f2261c7d21b3f36516fd9216c3ddf135", element="17deb2e5-ceae-4922-87b0-5843758b0a64")>
+2023-03-07 14:12:17,885 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is present
+2023-03-07 14:12:32,432 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:12:38,746 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 14:12:39,298 - page_object.BasePage - INFO - Input @ya.ru in input <selenium.webdriver.remote.webelement.WebElement (session="d258875b8da7f32e8df872fe98ee1878", element="c0f58c18-7c06-4ce8-a0f9-f73888ec130d")>
+2023-03-07 14:12:39,298 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="d258875b8da7f32e8df872fe98ee1878", element="c0f58c18-7c06-4ce8-a0f9-f73888ec130d")>
+2023-03-07 14:12:40,648 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 14:12:40,700 - page_object.BasePage - INFO - Input Qwe in input <selenium.webdriver.remote.webelement.WebElement (session="d258875b8da7f32e8df872fe98ee1878", element="bd08c2d2-2a57-40ca-b660-5f19eb55e330")>
+2023-03-07 14:12:40,700 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="d258875b8da7f32e8df872fe98ee1878", element="bd08c2d2-2a57-40ca-b660-5f19eb55e330")>
+2023-03-07 14:12:41,145 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 14:12:41,160 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="d258875b8da7f32e8df872fe98ee1878", element="fc0f4709-87b0-4af3-808f-ba3fb777ce26")>
+2023-03-07 14:12:41,962 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is present
+2023-03-07 14:13:23,413 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:13:26,548 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 14:13:26,654 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="2f45ed1ad65931fe5ec36828148f8910", element="bbb8790a-b9da-47eb-a96c-6a17c3bd3bf6")>
+2023-03-07 14:13:26,655 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="2f45ed1ad65931fe5ec36828148f8910", element="bbb8790a-b9da-47eb-a96c-6a17c3bd3bf6")>
+2023-03-07 14:13:27,890 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 14:13:27,918 - page_object.BasePage - INFO - Input !@$ in input <selenium.webdriver.remote.webelement.WebElement (session="2f45ed1ad65931fe5ec36828148f8910", element="3e4d4755-559d-4aa2-bca0-67ef548049a0")>
+2023-03-07 14:13:27,918 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="2f45ed1ad65931fe5ec36828148f8910", element="3e4d4755-559d-4aa2-bca0-67ef548049a0")>
+2023-03-07 14:13:28,601 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 14:13:28,613 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="2f45ed1ad65931fe5ec36828148f8910", element="34186326-ce4f-4350-80db-630ab1347cb4")>
+2023-03-07 14:13:29,140 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is present
+2023-03-07 14:13:43,940 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:13:47,043 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 14:13:49,925 - page_object.BasePage - INFO - Input 123 in input <selenium.webdriver.remote.webelement.WebElement (session="f4b748e5e2093bd275d2241ea13abf8e", element="14e9a7dc-59be-4fb1-91f8-360b25a1df66")>
+2023-03-07 14:13:49,926 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="f4b748e5e2093bd275d2241ea13abf8e", element="14e9a7dc-59be-4fb1-91f8-360b25a1df66")>
+2023-03-07 14:13:50,918 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 14:13:50,962 - page_object.BasePage - INFO - Input !@$ in input <selenium.webdriver.remote.webelement.WebElement (session="f4b748e5e2093bd275d2241ea13abf8e", element="d0d93545-acd2-4b1a-a679-c14430d21852")>
+2023-03-07 14:13:50,962 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="f4b748e5e2093bd275d2241ea13abf8e", element="d0d93545-acd2-4b1a-a679-c14430d21852")>
+2023-03-07 14:13:51,947 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 14:13:51,959 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="f4b748e5e2093bd275d2241ea13abf8e", element="af75f4aa-ca95-46e6-8ef8-a1d5f6c6b7f3")>
+2023-03-07 14:13:52,438 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is present
+2023-03-07 14:14:33,759 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:14:36,941 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 14:14:37,553 - page_object.BasePage - INFO - Input aaa@ya.ru in input <selenium.webdriver.remote.webelement.WebElement (session="2cd0d24330efd5bad7f539b80ab1c373", element="07df1266-d55e-496a-a820-be65ffd27f64")>
+2023-03-07 14:14:37,553 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="2cd0d24330efd5bad7f539b80ab1c373", element="07df1266-d55e-496a-a820-be65ffd27f64")>
+2023-03-07 14:14:38,964 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 14:14:39,023 - page_object.BasePage - INFO - Input !@$ in input <selenium.webdriver.remote.webelement.WebElement (session="2cd0d24330efd5bad7f539b80ab1c373", element="13ebd34e-4716-4b3d-9592-3dd89f6e62b1")>
+2023-03-07 14:14:39,023 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="2cd0d24330efd5bad7f539b80ab1c373", element="13ebd34e-4716-4b3d-9592-3dd89f6e62b1")>
+2023-03-07 14:14:39,487 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 14:14:39,498 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="2cd0d24330efd5bad7f539b80ab1c373", element="82692d62-db8a-4a6a-bb4b-2fd141feb982")>
+2023-03-07 14:14:40,248 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is present
+2023-03-07 14:14:55,484 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-07 14:15:04,780 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is present
+2023-03-07 14:15:04,929 - page_object.BasePage - INFO - Input @ya.ru in input <selenium.webdriver.remote.webelement.WebElement (session="114272a8422a69071de0f8a8a7401104", element="9dbc5716-c366-47a6-bfad-3b1f0e053850")>
+2023-03-07 14:15:04,929 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="114272a8422a69071de0f8a8a7401104", element="9dbc5716-c366-47a6-bfad-3b1f0e053850")>
+2023-03-07 14:15:06,399 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is present
+2023-03-07 14:15:06,516 - page_object.BasePage - INFO - Input !@$ in input <selenium.webdriver.remote.webelement.WebElement (session="114272a8422a69071de0f8a8a7401104", element="03f21b8e-1b70-48e5-a7c4-f2a231a6da5e")>
+2023-03-07 14:15:06,516 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="114272a8422a69071de0f8a8a7401104", element="03f21b8e-1b70-48e5-a7c4-f2a231a6da5e")>
+2023-03-07 14:15:06,999 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 14:15:07,012 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="114272a8422a69071de0f8a8a7401104", element="dbebfdd1-4b6a-46ad-8771-315282c6a217")>
+2023-03-07 14:15:07,734 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is present
+2023-03-07 16:00:19,409 - page_object.BasePage - INFO - ====== Started: 1678194019 ======
+2023-03-07 16:00:19,409 - page_object.BasePage - INFO - ====== Finished: 1678194019 ======
+2023-03-07 16:00:36,686 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-07 16:00:40,528 - page_object.BasePage - INFO - Clicking element: ('xpath', '/html/body/header/div/nav[1]/ul/li[1]/a')
+2023-03-07 16:07:13,520 - page_object.BasePage - INFO - ====== Started: 1678194433 ======
+2023-03-07 16:07:13,520 - page_object.BasePage - INFO - ====== Finished: 1678194433 ======
+2023-03-07 16:07:28,601 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-07 16:08:13,404 - page_object.BasePage - INFO - ====== Started: 1678194493 ======
+2023-03-07 16:08:13,405 - page_object.BasePage - INFO - ====== Finished: 1678194493 ======
+2023-03-07 16:08:29,346 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-07 17:04:32,697 - page_object.BasePage - INFO - ====== Started: 1678197872 ======
+2023-03-07 17:04:32,698 - page_object.BasePage - INFO - ====== Finished: 1678197872 ======
+2023-03-07 17:04:49,428 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login/reminder
+2023-03-07 17:04:55,261 - page_object.BasePage - INFO - Check if element ('name', 'contact') is present
+2023-03-07 17:04:55,401 - page_object.BasePage - INFO - Input dariatest11@yandex.ru in input <selenium.webdriver.remote.webelement.WebElement (session="140317f4ddc5a81fcdd68abc5a67137f", element="de456807-edca-423a-beb1-87bce4f47161")>
+2023-03-07 17:04:55,401 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="140317f4ddc5a81fcdd68abc5a67137f", element="de456807-edca-423a-beb1-87bce4f47161")>
+2023-03-07 17:04:57,014 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 17:04:57,033 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="140317f4ddc5a81fcdd68abc5a67137f", element="675f49d0-d918-4d14-b781-e94b4d402895")>
+2023-03-07 17:13:19,407 - page_object.BasePage - INFO - ====== Started: 1678198399 ======
+2023-03-07 17:13:19,407 - page_object.BasePage - INFO - ====== Finished: 1678198399 ======
+2023-03-07 17:13:36,277 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login/reminder
+2023-03-07 17:13:40,231 - page_object.BasePage - INFO - Check if element ('name', 'contact') is present
+2023-03-07 17:13:40,576 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="b31e4a409d36c4dfd3e63ae418ba1f18", element="bba00926-8bee-46b0-bbe0-a765d51c01b0")>
+2023-03-07 17:13:40,577 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="b31e4a409d36c4dfd3e63ae418ba1f18", element="bba00926-8bee-46b0-bbe0-a765d51c01b0")>
+2023-03-07 17:13:42,067 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 17:13:42,104 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="b31e4a409d36c4dfd3e63ae418ba1f18", element="d9bc2209-1ad9-45c8-9ec8-06b932151581")>
+2023-03-07 17:13:42,828 - page_object.BasePage - INFO - Check if element ('css selector', '.reg-email-error') is present
+2023-03-07 17:13:57,644 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login/reminder
+2023-03-07 17:14:04,322 - page_object.BasePage - INFO - Check if element ('name', 'contact') is present
+2023-03-07 17:14:04,459 - page_object.BasePage - INFO - Input 1 in input <selenium.webdriver.remote.webelement.WebElement (session="d736ecdb6676e2130cf0b30330858f25", element="5cb77567-592d-4c48-a639-3586c121c0fb")>
+2023-03-07 17:14:04,459 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="d736ecdb6676e2130cf0b30330858f25", element="5cb77567-592d-4c48-a639-3586c121c0fb")>
+2023-03-07 17:14:06,269 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-07 17:14:06,293 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="d736ecdb6676e2130cf0b30330858f25", element="7bb7ed37-63b2-4f2b-a0fe-98eafc2c7289")>
+2023-03-07 17:14:07,064 - page_object.BasePage - INFO - Check if element ('css selector', '.reg-email-error') is present
+2023-03-07 17:20:57,861 - page_object.BasePage - INFO - ====== Started: 1678198857 ======
+2023-03-07 17:20:57,862 - page_object.BasePage - INFO - ====== Finished: 1678198857 ======
+2023-03-09 13:12:24,793 - page_object.BasePage - INFO - ====== Started: 1678356744 ======
+2023-03-09 13:12:24,793 - page_object.BasePage - INFO - ====== Finished: 1678356744 ======
+2023-03-09 13:12:41,209 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login/reminder
+2023-03-09 13:12:48,042 - page_object.BasePage - INFO - Check if element ('name', 'contact') is present
+2023-03-09 13:12:48,158 - page_object.BasePage - INFO - Input   in input <selenium.webdriver.remote.webelement.WebElement (session="e58800290bedeecaddf9dcf322e93ed1", element="d4031e8b-1d31-42f2-9543-3b6a7a46b08c")>
+2023-03-09 13:12:48,158 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="e58800290bedeecaddf9dcf322e93ed1", element="d4031e8b-1d31-42f2-9543-3b6a7a46b08c")>
+2023-03-09 13:12:49,587 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-09 13:12:49,613 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="e58800290bedeecaddf9dcf322e93ed1", element="5e4e442f-d501-43f3-a68b-33b3fd0d31fe")>
+2023-03-09 13:12:50,277 - page_object.BasePage - INFO - Check if element ('css selector', '.reg-email-error') is present
+2023-03-09 13:13:06,411 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login/reminder
+2023-03-09 13:13:13,781 - page_object.BasePage - INFO - Check if element ('name', 'contact') is present
+2023-03-09 13:13:14,261 - page_object.BasePage - INFO - Input 1 in input <selenium.webdriver.remote.webelement.WebElement (session="056131d4566a28c6c9acb0e1e21f4675", element="094a23d3-8338-48c8-8ae6-9731b28a193a")>
+2023-03-09 13:13:14,261 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="056131d4566a28c6c9acb0e1e21f4675", element="094a23d3-8338-48c8-8ae6-9731b28a193a")>
+2023-03-09 13:13:15,594 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-09 13:13:15,770 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="056131d4566a28c6c9acb0e1e21f4675", element="82d0709e-66fb-40b6-b164-df018eccced2")>
+2023-03-09 13:13:16,277 - page_object.BasePage - INFO - Check if element ('css selector', '.reg-email-error') is present
+2023-03-09 13:13:31,336 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login/reminder
+2023-03-09 13:13:55,848 - page_object.BasePage - INFO - Check if element ('name', 'contact') is present
+2023-03-09 13:13:55,969 - page_object.BasePage - INFO - Input Aaa in input <selenium.webdriver.remote.webelement.WebElement (session="09e4a89f19e5d2fc860079b92ee993fa", element="67bb814b-50d7-4bb0-95a6-4c87eaa348a0")>
+2023-03-09 13:13:55,970 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="09e4a89f19e5d2fc860079b92ee993fa", element="67bb814b-50d7-4bb0-95a6-4c87eaa348a0")>
+2023-03-09 13:13:57,435 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-09 13:13:57,489 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="09e4a89f19e5d2fc860079b92ee993fa", element="e7ca3ef9-c229-4b9f-be26-813b7e049bdd")>
+2023-03-09 13:13:57,983 - page_object.BasePage - INFO - Check if element ('css selector', '.reg-email-error') is present
+2023-03-09 13:14:43,429 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login/reminder
+2023-03-09 13:14:46,059 - page_object.BasePage - INFO - Check if element ('name', 'contact') is present
+2023-03-09 13:14:46,725 - page_object.BasePage - INFO - Input !#? in input <selenium.webdriver.remote.webelement.WebElement (session="5e7f19cea210f6d53e4fa184cdf90c68", element="97cc3383-a76d-4382-8493-c9292cf76992")>
+2023-03-09 13:14:46,725 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="5e7f19cea210f6d53e4fa184cdf90c68", element="97cc3383-a76d-4382-8493-c9292cf76992")>
+2023-03-09 13:14:48,184 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-09 13:14:48,244 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="5e7f19cea210f6d53e4fa184cdf90c68", element="af70d10a-a104-422d-8d4e-85517fbb9f1d")>
+2023-03-09 13:14:48,844 - page_object.BasePage - INFO - Check if element ('css selector', '.reg-email-error') is present
+2023-03-09 13:15:06,414 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login/reminder
+2023-03-09 13:15:12,961 - page_object.BasePage - INFO - Check if element ('name', 'contact') is present
+2023-03-09 13:15:13,166 - page_object.BasePage - INFO - Input a1 in input <selenium.webdriver.remote.webelement.WebElement (session="423737bf50ba80d1c3eb812e67caedfd", element="7a3033ca-cefb-48e6-ac02-1ca1291acecf")>
+2023-03-09 13:15:13,167 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="423737bf50ba80d1c3eb812e67caedfd", element="7a3033ca-cefb-48e6-ac02-1ca1291acecf")>
+2023-03-09 13:15:15,146 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-09 13:15:15,167 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="423737bf50ba80d1c3eb812e67caedfd", element="280fcf87-db6d-4650-ac4e-5e437ebaceb3")>
+2023-03-09 13:15:15,645 - page_object.BasePage - INFO - Check if element ('css selector', '.reg-email-error') is present
+2023-03-09 13:15:32,454 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login/reminder
+2023-03-09 13:15:38,507 - page_object.BasePage - INFO - Check if element ('name', 'contact') is present
+2023-03-09 13:15:39,054 - page_object.BasePage - INFO - Input a1@ in input <selenium.webdriver.remote.webelement.WebElement (session="adda94ea63020e1068eab357696eeb4d", element="6dbcea06-2561-4827-bcf6-af350353d8d8")>
+2023-03-09 13:15:39,054 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="adda94ea63020e1068eab357696eeb4d", element="6dbcea06-2561-4827-bcf6-af350353d8d8")>
+2023-03-09 13:15:40,437 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-09 13:15:40,482 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="adda94ea63020e1068eab357696eeb4d", element="ed14a273-2092-4d3c-ad82-1034c155aea7")>
+2023-03-09 13:15:40,958 - page_object.BasePage - INFO - Check if element ('css selector', '.reg-email-error') is present
+2023-03-09 13:15:55,426 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login/reminder
+2023-03-09 13:16:09,909 - page_object.BasePage - INFO - Check if element ('name', 'contact') is present
+2023-03-09 13:16:10,478 - page_object.BasePage - INFO - Input a1@gmail in input <selenium.webdriver.remote.webelement.WebElement (session="75e969a74c7e0c821087b5829bb3aaff", element="cfe5afa7-db77-47fb-8779-82b16c2b38ce")>
+2023-03-09 13:16:10,479 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="75e969a74c7e0c821087b5829bb3aaff", element="cfe5afa7-db77-47fb-8779-82b16c2b38ce")>
+2023-03-09 13:16:12,148 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-09 13:16:12,165 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="75e969a74c7e0c821087b5829bb3aaff", element="537397ad-b83f-491b-aa2b-8ff6ea70d4e5")>
+2023-03-09 13:16:12,676 - page_object.BasePage - INFO - Check if element ('css selector', '.reg-email-error') is present
+2023-03-09 13:16:26,854 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login/reminder
+2023-03-09 13:16:40,494 - page_object.BasePage - INFO - Check if element ('name', 'contact') is present
+2023-03-09 13:16:40,641 - page_object.BasePage - INFO - Input @mail.ru in input <selenium.webdriver.remote.webelement.WebElement (session="bc790a16e831d038d905092fde22ba7e", element="373a68c4-bb35-4e35-a7b9-f07301bf17b5")>
+2023-03-09 13:16:40,641 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="bc790a16e831d038d905092fde22ba7e", element="373a68c4-bb35-4e35-a7b9-f07301bf17b5")>
+2023-03-09 13:16:42,718 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is present
+2023-03-09 13:16:42,746 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="bc790a16e831d038d905092fde22ba7e", element="2717c82e-d29a-4145-87bd-9697e07fa4e9")>
+2023-03-09 13:16:43,287 - page_object.BasePage - INFO - Check if element ('css selector', '.reg-email-error') is present
+2023-03-09 13:28:06,757 - page_object.BasePage - INFO - ====== Started: 1678357686 ======
+2023-03-09 13:28:06,757 - page_object.BasePage - INFO - ====== Finished: 1678357686 ======
+2023-03-09 13:28:21,809 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 13:28:29,734 - page_object.BasePage - INFO - Check if element ('id', 'input-6409b1edd368c') is present
+2023-03-09 13:29:19,887 - page_object.BasePage - INFO - ====== Started: 1678357759 ======
+2023-03-09 13:29:19,887 - page_object.BasePage - INFO - ====== Finished: 1678357759 ======
+2023-03-09 13:29:34,590 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 13:29:46,036 - page_object.BasePage - INFO - Check if element ('id', '#input-6409b1edd368c') is present
+2023-03-09 13:30:56,557 - page_object.BasePage - INFO - ====== Started: 1678357856 ======
+2023-03-09 13:30:56,557 - page_object.BasePage - INFO - ====== Finished: 1678357856 ======
+2023-03-09 13:31:09,050 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 13:31:15,383 - page_object.BasePage - INFO - Check if element ('id', 'input-6409b49515a4f') is present
+2023-03-09 13:31:55,411 - page_object.BasePage - INFO - ====== Started: 1678357915 ======
+2023-03-09 13:31:55,412 - page_object.BasePage - INFO - ====== Finished: 1678357915 ======
+2023-03-09 13:32:09,981 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 13:32:16,018 - page_object.BasePage - INFO - Check if element ('id', '#input-6409b49515a4f') is present
+2023-03-09 13:34:35,322 - page_object.BasePage - INFO - ====== Started: 1678358075 ======
+2023-03-09 13:34:35,323 - page_object.BasePage - INFO - ====== Finished: 1678358075 ======
+2023-03-09 13:34:50,814 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 13:34:56,527 - page_object.BasePage - INFO - Check if element ('name', '#input-6409b49515a4f') is present
+2023-03-09 13:35:16,093 - page_object.BasePage - INFO - ====== Started: 1678358116 ======
+2023-03-09 13:35:16,093 - page_object.BasePage - INFO - ====== Finished: 1678358116 ======
+2023-03-09 13:35:24,977 - page_object.BasePage - INFO - ====== Started: 1678358124 ======
+2023-03-09 13:35:24,978 - page_object.BasePage - INFO - ====== Finished: 1678358124 ======
+2023-03-09 13:35:39,355 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 13:35:45,232 - page_object.BasePage - INFO - Check if element ('name', 'input-6409b49515a4f') is present
+2023-03-09 13:38:53,723 - page_object.BasePage - INFO - ====== Started: 1678358333 ======
+2023-03-09 13:38:53,723 - page_object.BasePage - INFO - ====== Finished: 1678358333 ======
+2023-03-09 13:39:08,599 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 13:39:14,626 - page_object.BasePage - INFO - Check if element ('css selector', '#searchForm .old-input') is present
+2023-03-09 13:44:13,604 - page_object.BasePage - INFO - ====== Started: 1678358653 ======
+2023-03-09 13:44:13,604 - page_object.BasePage - INFO - ====== Finished: 1678358653 ======
+2023-03-09 13:44:28,859 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 13:44:34,941 - page_object.BasePage - INFO - Check if element ('link text', 'Что Вы ищете?') is present
+2023-03-09 13:48:49,598 - page_object.BasePage - INFO - ====== Started: 1678358929 ======
+2023-03-09 13:48:49,598 - page_object.BasePage - INFO - ====== Finished: 1678358929 ======
+2023-03-09 13:49:05,420 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 13:49:09,593 - page_object.BasePage - INFO - Check if element ('xpath', '//*[@id=input-6409b49515a4f]') is present
+2023-03-09 13:49:49,074 - page_object.BasePage - INFO - ====== Started: 1678358989 ======
+2023-03-09 13:49:49,074 - page_object.BasePage - INFO - ====== Finished: 1678358989 ======
+2023-03-09 13:50:29,904 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 13:50:32,838 - page_object.BasePage - INFO - Check if element ('link text', 'input-6409b49515a4f') is present
+2023-03-09 13:51:01,021 - page_object.BasePage - INFO - ====== Started: 1678359061 ======
+2023-03-09 13:51:01,021 - page_object.BasePage - INFO - ====== Finished: 1678359061 ======
+2023-03-09 13:51:32,759 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 13:51:53,849 - page_object.BasePage - INFO - ====== Started: 1678359113 ======
+2023-03-09 13:51:53,849 - page_object.BasePage - INFO - ====== Finished: 1678359113 ======
+2023-03-09 13:52:06,430 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 13:52:13,776 - page_object.BasePage - INFO - Check if element ('css selector', 'input-6409b49515a4f') is present
+2023-03-09 13:52:42,323 - page_object.BasePage - INFO - ====== Started: 1678359162 ======
+2023-03-09 13:52:42,324 - page_object.BasePage - INFO - ====== Finished: 1678359162 ======
+2023-03-09 13:53:54,689 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 13:53:55,432 - page_object.BasePage - INFO - Check if element ('css selector', '.input-6409b49515a4f') is present
+2023-03-09 13:54:32,649 - page_object.BasePage - INFO - ====== Started: 1678359272 ======
+2023-03-09 13:54:32,650 - page_object.BasePage - INFO - ====== Finished: 1678359272 ======
+2023-03-09 13:54:46,799 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 13:54:59,679 - page_object.BasePage - INFO - Check if element ('id', '.input-6409b49515a4f') is present
+2023-03-09 14:19:32,442 - page_object.BasePage - INFO - ====== Started: 1678360772 ======
+2023-03-09 14:19:32,442 - page_object.BasePage - INFO - ====== Finished: 1678360772 ======
+2023-03-09 14:19:49,197 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 14:19:52,639 - page_object.BasePage - INFO - Check if element ('css selector', '#input-6409b49515a4f .tl-input__text') is present
+2023-03-09 14:25:02,359 - page_object.BasePage - INFO - ====== Started: 1678361102 ======
+2023-03-09 14:25:02,359 - page_object.BasePage - INFO - ====== Finished: 1678361102 ======
+2023-03-09 14:25:17,959 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 14:25:23,030 - page_object.BasePage - INFO - Check if element ('css selector', 'input-6409b49515a4f .tl-input__text') is present
+2023-03-09 14:27:02,195 - page_object.BasePage - INFO - ====== Started: 1678361222 ======
+2023-03-09 14:27:02,195 - page_object.BasePage - INFO - ====== Finished: 1678361222 ======
+2023-03-09 14:27:18,538 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 14:27:23,652 - page_object.BasePage - INFO - Check if element ('xpath', '/html/body/main/div[4]/div[1]/div[1]/form/div[1]/input') is present
+2023-03-09 14:44:44,456 - page_object.BasePage - INFO - ====== Started: 1678362284 ======
+2023-03-09 14:44:44,456 - page_object.BasePage - INFO - ====== Finished: 1678362284 ======
+2023-03-09 14:44:59,756 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 14:45:05,574 - page_object.BasePage - INFO - Check if element ('css selector', '#main-input .tl-input__text') is present
+2023-03-09 14:47:39,934 - page_object.BasePage - INFO - ====== Started: 1678362459 ======
+2023-03-09 14:47:39,934 - page_object.BasePage - INFO - ====== Finished: 1678362459 ======
+2023-03-09 14:47:54,980 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 14:47:59,447 - page_object.BasePage - INFO - Check if element ('css selector', '#input-6409b49515a4f') is present
+2023-03-09 14:48:22,354 - page_object.BasePage - INFO - ====== Started: 1678362502 ======
+2023-03-09 14:48:22,354 - page_object.BasePage - INFO - ====== Finished: 1678362502 ======
+2023-03-09 14:48:37,884 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 14:48:44,400 - page_object.BasePage - INFO - Check if element ('id', '#input-6409b49515a4f') is present
+2023-03-09 14:59:06,605 - page_object.BasePage - INFO - ====== Started: 1678363146 ======
+2023-03-09 14:59:06,606 - page_object.BasePage - INFO - ====== Finished: 1678363146 ======
+2023-03-09 14:59:22,597 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 14:59:25,893 - page_object.BasePage - INFO - Check if element ('css selector', '.search-mobile-city .tl-input__text') is present
+2023-03-09 15:03:32,385 - page_object.BasePage - INFO - ====== Started: 1678363412 ======
+2023-03-09 15:03:32,385 - page_object.BasePage - INFO - ====== Finished: 1678363412 ======
+2023-03-09 15:03:47,272 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-09 15:03:51,016 - page_object.BasePage - INFO - Check if element ('css selector', '#searchForm .old-input') is present
+2023-03-09 15:03:51,375 - page_object.BasePage - INFO - Input Юнона и Авось in input <selenium.webdriver.remote.webelement.WebElement (session="830e0bde78a129d3550c8876b4b4b8f9", element="82516f81-72ba-48b4-ba12-3c9dc38b0f64")>
+2023-03-09 15:03:51,375 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="830e0bde78a129d3550c8876b4b4b8f9", element="82516f81-72ba-48b4-ba12-3c9dc38b0f64")>
+2023-03-09 15:03:54,882 - page_object.BasePage - INFO - Check if element ('css selector', '.find_button .btn3') is present
+2023-03-09 15:03:54,932 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="830e0bde78a129d3550c8876b4b4b8f9", element="93abfdbf-1635-48d6-b738-b1b4e2d7b2aa")>
+2023-03-09 15:09:48,606 - page_object.BasePage - INFO - ====== Started: 1678363788 ======
+2023-03-09 15:09:48,606 - page_object.BasePage - INFO - ====== Finished: 1678363788 ======
+2023-03-09 15:17:27,291 - page_object.BasePage - INFO - ====== Started: 1678364247 ======
+2023-03-09 15:17:27,291 - page_object.BasePage - INFO - ====== Finished: 1678364247 ======
+2023-03-09 15:17:42,892 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 15:19:49,388 - page_object.BasePage - INFO - ====== Started: 1678364389 ======
+2023-03-09 15:19:49,388 - page_object.BasePage - INFO - ====== Finished: 1678364389 ======
+2023-03-09 15:20:04,481 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 15:20:10,545 - page_object.BasePage - INFO - Clicking element: ('xpath', '/html/body/header/div/nav[1]/ul/li[1]/a')
+2023-03-09 15:25:57,827 - page_object.BasePage - INFO - ====== Started: 1678364757 ======
+2023-03-09 15:25:57,827 - page_object.BasePage - INFO - ====== Finished: 1678364757 ======
+2023-03-09 15:26:12,893 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 15:26:18,509 - page_object.BasePage - INFO - Clicking element: xpath
+2023-03-09 15:26:33,538 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 15:26:41,961 - page_object.BasePage - INFO - Clicking element: /html/body/header/div/nav[1]/ul/li[1]/a]
+2023-03-09 15:28:37,050 - page_object.BasePage - INFO - ====== Started: 1678364917 ======
+2023-03-09 15:28:37,050 - page_object.BasePage - INFO - ====== Finished: 1678364917 ======
+2023-03-09 15:28:51,037 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/
+2023-03-09 15:47:56,224 - page_object.BasePage - INFO - ====== Started: 1678366076 ======
+2023-03-09 15:47:56,225 - page_object.BasePage - INFO - ====== Finished: 1678366076 ======
+2023-03-09 15:48:15,283 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-09 15:48:26,210 - page_object.BasePage - INFO - Check if element ('css selector', '#searchForm .old-input') is present
+2023-03-09 15:48:26,340 - page_object.BasePage - INFO - Input Aaa in input <selenium.webdriver.remote.webelement.WebElement (session="5dcfe9a7a9c6f758564ea64ae6e4c44d", element="72c717e9-5552-473d-aa65-3288ed49522f")>
+2023-03-09 15:48:26,340 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="5dcfe9a7a9c6f758564ea64ae6e4c44d", element="72c717e9-5552-473d-aa65-3288ed49522f")>
+2023-03-09 15:48:27,530 - page_object.BasePage - INFO - Check if element ('css selector', '.find_button .btn3') is present
+2023-03-09 15:48:27,560 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="5dcfe9a7a9c6f758564ea64ae6e4c44d", element="6e7aad13-eca0-4b15-bfd3-c630eb2e7b60")>
+2023-03-09 15:48:29,866 - page_object.BasePage - INFO - Check if element ('class name', 'mt-2') is present
+2023-03-09 15:48:42,940 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-09 15:49:30,294 - page_object.BasePage - INFO - ====== Started: 1678366170 ======
+2023-03-09 15:49:30,294 - page_object.BasePage - INFO - ====== Finished: 1678366170 ======
+2023-03-09 15:49:45,738 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-09 15:49:50,898 - page_object.BasePage - INFO - Check if element ('css selector', '#searchForm .old-input') is present
+2023-03-09 15:49:51,226 - page_object.BasePage - INFO - Input Aaa in input <selenium.webdriver.remote.webelement.WebElement (session="24cb0c0e1892c8c331408ae1e3afbd4d", element="041046d6-e473-44b0-a97d-a41e015a4839")>
+2023-03-09 15:49:51,226 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="24cb0c0e1892c8c331408ae1e3afbd4d", element="041046d6-e473-44b0-a97d-a41e015a4839")>
+2023-03-09 15:49:52,424 - page_object.BasePage - INFO - Check if element ('css selector', '.find_button .btn3') is present
+2023-03-09 15:49:52,461 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="24cb0c0e1892c8c331408ae1e3afbd4d", element="cbca65dc-7122-4d8d-b99e-fe45e8dadd52")>
+2023-03-09 15:49:54,850 - page_object.BasePage - INFO - Check if element ('class name', '#mt-2') is present
+2023-03-09 16:03:39,776 - page_object.BasePage - INFO - ====== Started: 1678367019 ======
+2023-03-09 16:03:39,776 - page_object.BasePage - INFO - ====== Finished: 1678367019 ======
+2023-03-09 16:03:55,347 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-09 16:04:02,583 - page_object.BasePage - INFO - Check if element ('css selector', '#searchForm .old-input') is present
+2023-03-09 16:04:03,566 - page_object.BasePage - INFO - Input Aaa in input <selenium.webdriver.remote.webelement.WebElement (session="49780bd0f912c8ca94f5c1fdaeb9a3e5", element="3d449c63-b65d-402a-8b28-249fa0ccf639")>
+2023-03-09 16:04:03,566 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="49780bd0f912c8ca94f5c1fdaeb9a3e5", element="3d449c63-b65d-402a-8b28-249fa0ccf639")>
+2023-03-09 16:04:04,697 - page_object.BasePage - INFO - Check if element ('css selector', '.find_button .btn3') is present
+2023-03-09 16:04:04,722 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="49780bd0f912c8ca94f5c1fdaeb9a3e5", element="be0cf25b-2c7c-4f9e-bc1e-91d6f696f883")>
+2023-03-09 16:04:06,609 - page_object.BasePage - INFO - Check if element ('partial link text', 'Найдено') is present
+2023-03-09 16:06:35,709 - page_object.BasePage - INFO - ====== Started: 1678367195 ======
+2023-03-09 16:06:35,709 - page_object.BasePage - INFO - ====== Finished: 1678367195 ======
+2023-03-09 16:06:52,998 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-09 16:06:58,758 - page_object.BasePage - INFO - Check if element ('css selector', '#searchForm .old-input') is present
+2023-03-09 16:06:59,772 - page_object.BasePage - INFO - Input Aaa in input <selenium.webdriver.remote.webelement.WebElement (session="47494e56f409672a0ee4f652de548662", element="00d792a2-cfbe-467d-b7b6-d96d40e1f857")>
+2023-03-09 16:06:59,772 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="47494e56f409672a0ee4f652de548662", element="00d792a2-cfbe-467d-b7b6-d96d40e1f857")>
+2023-03-09 16:07:00,869 - page_object.BasePage - INFO - Check if element ('css selector', '.find_button .btn3') is present
+2023-03-09 16:07:00,894 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="47494e56f409672a0ee4f652de548662", element="836a460a-7b66-422c-8eb3-7dbd3ec11f1f")>
+2023-03-09 16:07:03,511 - page_object.BasePage - INFO - Check if element ('partial link text', 'мероприятий') is present
+2023-03-09 16:34:02,105 - page_object.BasePage - INFO - ====== Started: 1678368842 ======
+2023-03-09 16:34:02,105 - page_object.BasePage - INFO - ====== Finished: 1678368842 ======
+2023-03-09 16:34:34,373 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-09 16:34:37,095 - page_object.BasePage - INFO - Check if element ('css selector', '#searchForm .old-input') is present
+2023-03-09 16:34:37,619 - page_object.BasePage - INFO - Input Aaa in input <selenium.webdriver.remote.webelement.WebElement (session="54c5b6b8c6f69fbd4d22c03cff2d8db2", element="3f8fc496-e11a-4416-82da-171ef338bb80")>
+2023-03-09 16:34:37,620 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="54c5b6b8c6f69fbd4d22c03cff2d8db2", element="3f8fc496-e11a-4416-82da-171ef338bb80")>
+2023-03-09 16:34:38,897 - page_object.BasePage - INFO - Check if element ('css selector', '.find_button .btn3') is present
+2023-03-09 16:34:38,923 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="54c5b6b8c6f69fbd4d22c03cff2d8db2", element="c1da6c33-9618-4d28-a481-8d9748183a57")>
+2023-03-09 16:34:40,973 - page_object.BasePage - INFO - Check if element ('partial link text', 'Ничего не найдено') is present
+2023-03-09 16:36:43,441 - page_object.BasePage - INFO - ====== Started: 1678369003 ======
+2023-03-09 16:36:43,441 - page_object.BasePage - INFO - ====== Finished: 1678369003 ======
+2023-03-09 16:37:01,742 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-09 16:37:05,563 - page_object.BasePage - INFO - Check if element ('css selector', '#searchForm .old-input') is present
+2023-03-09 16:37:05,961 - page_object.BasePage - INFO - Input Aaa in input <selenium.webdriver.remote.webelement.WebElement (session="69b9a2fc998d4c9d4a46df20af7ca814", element="b3190937-b7e7-45bf-8896-cc357e933c11")>
+2023-03-09 16:37:05,961 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="69b9a2fc998d4c9d4a46df20af7ca814", element="b3190937-b7e7-45bf-8896-cc357e933c11")>
+2023-03-09 16:37:07,053 - page_object.BasePage - INFO - Check if element ('css selector', '.find_button .btn3') is present
+2023-03-09 16:37:07,076 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="69b9a2fc998d4c9d4a46df20af7ca814", element="1894b64d-4db5-41da-bb69-e1a8f24b1e2b")>
+2023-03-09 16:37:09,498 - page_object.BasePage - INFO - Check if element ('link text', 'Ничего не найдено') is present
+2023-03-10 21:57:57,735 - page_object.BasePage - INFO - ====== Started: 1678474677 ======
+2023-03-10 21:57:57,735 - page_object.BasePage - INFO - ====== Finished: 1678474677 ======
+2023-03-10 21:58:17,278 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-10 21:58:23,035 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[contact]') is find
+2023-03-10 21:58:23,330 - page_object.BasePage - INFO - Check if element ('name', 'LoginForm[password]') is find
+2023-03-10 21:58:23,402 - page_object.BasePage - INFO - Check if element ('css selector', '.registration-button') is find
+2023-03-10 21:58:23,816 - page_object.BasePage - INFO - Check if element ('css selector', '.login-msg') is find
+2023-03-10 21:58:23,825 - page_object.BasePage - INFO - Check if element ('css selector', '#searchForm .old-input') is find
+2023-03-10 21:58:23,831 - page_object.BasePage - INFO - Check if element ('css selector', '.find_button .btn3') is find
+2023-03-10 21:58:23,837 - page_object.BasePage - INFO - Check if element ('link text', 'Ничего не найдено') is find
+2023-03-10 21:59:37,495 - page_object.BasePage - INFO - ====== Started: 1678474777 ======
+2023-03-10 21:59:37,495 - page_object.BasePage - INFO - ====== Finished: 1678474777 ======
+2023-03-10 21:59:53,660 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-10 21:59:58,783 - page_object.BasePage - INFO - Check if element ('css selector', '#searchForm .old-input') is present
+2023-03-10 21:59:59,443 - page_object.BasePage - INFO - Input Aaa in input <selenium.webdriver.remote.webelement.WebElement (session="bb5b81045cf9c4b58cee6edf00a71760", element="5398d32f-cadf-495f-b3ef-721f6d2004c4")>
+2023-03-10 21:59:59,443 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="bb5b81045cf9c4b58cee6edf00a71760", element="5398d32f-cadf-495f-b3ef-721f6d2004c4")>
+2023-03-10 22:00:00,437 - page_object.BasePage - INFO - Check if element ('css selector', '.find_button .btn3') is present
+2023-03-10 22:00:00,532 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="bb5b81045cf9c4b58cee6edf00a71760", element="2945dc52-78ed-468a-b960-0087a93535a5")>
+2023-03-10 22:00:02,754 - page_object.BasePage - INFO - Check if element ('xpath', '/html/body/main/div[6]/div/div/div/div/div/div[1]/section[4]/p') is present
+2023-03-10 22:05:45,560 - page_object.BasePage - INFO - ====== Started: 1678475145 ======
+2023-03-10 22:05:45,560 - page_object.BasePage - INFO - ====== Finished: 1678475145 ======
+2023-03-10 22:06:14,711 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-10 22:06:17,041 - page_object.BasePage - INFO - Check if element ('css selector', '#searchForm .old-input') is present
+2023-03-10 22:06:17,552 - page_object.BasePage - INFO - Input Aaa in input <selenium.webdriver.remote.webelement.WebElement (session="e98d7f7219f9af71497da38bbbf2a218", element="efb9d578-2e54-44ef-bddf-5e4b7c8a5def")>
+2023-03-10 22:06:17,552 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="e98d7f7219f9af71497da38bbbf2a218", element="efb9d578-2e54-44ef-bddf-5e4b7c8a5def")>
+2023-03-10 22:06:18,549 - page_object.BasePage - INFO - Check if element ('css selector', '.find_button .btn3') is present
+2023-03-10 22:06:18,576 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="e98d7f7219f9af71497da38bbbf2a218", element="7d065688-306f-4163-9bec-86c56d495ca8")>
+2023-03-10 22:06:20,204 - page_object.BasePage - INFO - Check if element ('xpath', '/html/body/main/div[6]/div/div/div/div/div/div[1]/section[4]/p') is present
+2023-03-10 22:06:39,197 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-10 22:06:43,273 - page_object.BasePage - INFO - Check if element ('css selector', '#searchForm .old-input') is present
+2023-03-10 22:06:43,427 - page_object.BasePage - INFO - Input a123 in input <selenium.webdriver.remote.webelement.WebElement (session="ae00bb9344df118bf774128c44b35b76", element="677bc55d-ce89-4143-980d-388e47090792")>
+2023-03-10 22:06:43,427 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="ae00bb9344df118bf774128c44b35b76", element="677bc55d-ce89-4143-980d-388e47090792")>
+2023-03-10 22:06:44,277 - page_object.BasePage - INFO - Check if element ('css selector', '.find_button .btn3') is present
+2023-03-10 22:06:44,303 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="ae00bb9344df118bf774128c44b35b76", element="3b6b632b-cb55-44f8-b47a-139ca3d0e7ca")>
+2023-03-10 22:06:46,703 - page_object.BasePage - INFO - Check if element ('xpath', '/html/body/main/div[6]/div/div/div/div/div/div[1]/section[4]/p') is present
+2023-03-10 22:06:55,375 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-10 22:07:02,283 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-10 22:08:19,510 - page_object.BasePage - INFO - ====== Started: 1678475299 ======
+2023-03-10 22:08:19,510 - page_object.BasePage - INFO - ====== Finished: 1678475299 ======
+2023-03-10 22:08:34,778 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-10 22:08:42,363 - page_object.BasePage - INFO - Check if element ('css selector', '#searchForm .old-input') is present
+2023-03-10 22:08:42,775 - page_object.BasePage - INFO - Input Aaa in input <selenium.webdriver.remote.webelement.WebElement (session="473767846f65e88760b758e5b88b5cf9", element="fc18ecb6-3529-4940-8da3-7a350fc0e280")>
+2023-03-10 22:08:42,775 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="473767846f65e88760b758e5b88b5cf9", element="fc18ecb6-3529-4940-8da3-7a350fc0e280")>
+2023-03-10 22:08:44,081 - page_object.BasePage - INFO - Check if element ('css selector', '.find_button .btn3') is present
+2023-03-10 22:08:44,109 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="473767846f65e88760b758e5b88b5cf9", element="11e341b8-9e97-4271-ba57-6e1710ebd47b")>
+2023-03-10 22:08:46,202 - page_object.BasePage - INFO - Check if element ('xpath', '/html/body/main/div[6]/div/div/div/div/div/div[1]/section[4]/p') is present
+2023-03-10 22:09:02,544 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-10 22:09:09,095 - page_object.BasePage - INFO - Check if element ('css selector', '#searchForm .old-input') is present
+2023-03-10 22:09:09,705 - page_object.BasePage - INFO - Input a123 in input <selenium.webdriver.remote.webelement.WebElement (session="1d345c59934bc4d3043c47839f2d1196", element="240a2067-2bde-4017-a6c5-4080377d217f")>
+2023-03-10 22:09:09,705 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="1d345c59934bc4d3043c47839f2d1196", element="240a2067-2bde-4017-a6c5-4080377d217f")>
+2023-03-10 22:09:10,729 - page_object.BasePage - INFO - Check if element ('css selector', '.find_button .btn3') is present
+2023-03-10 22:09:10,752 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="1d345c59934bc4d3043c47839f2d1196", element="771ced66-762b-4090-a72c-041ab5ac2329")>
+2023-03-10 22:09:13,412 - page_object.BasePage - INFO - Check if element ('xpath', '/html/body/main/div[6]/div/div/div/div/div/div[1]/section[4]/p') is present
+2023-03-10 22:09:26,115 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-10 22:09:37,948 - page_object.BasePage - INFO - Check if element ('css selector', '#searchForm .old-input') is present
+2023-03-10 22:09:38,110 - page_object.BasePage - INFO - Input ___!"@ in input <selenium.webdriver.remote.webelement.WebElement (session="e4bb5950f7dfa186d613856779e6ac19", element="c82991f8-4ed0-44f4-b287-7f169027a464")>
+2023-03-10 22:09:38,110 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="e4bb5950f7dfa186d613856779e6ac19", element="c82991f8-4ed0-44f4-b287-7f169027a464")>
+2023-03-10 22:09:39,854 - page_object.BasePage - INFO - Check if element ('css selector', '.find_button .btn3') is present
+2023-03-10 22:09:39,873 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="e4bb5950f7dfa186d613856779e6ac19", element="0742c2bd-f9a8-4600-8319-ea8b56d104b0")>
+2023-03-10 22:09:46,869 - page_object.BasePage - INFO - Check if element ('xpath', '/html/body/main/div[6]/div/div/div/div/div/div[1]/section[4]/p') is present
+2023-03-10 22:10:02,447 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-10 22:10:09,201 - page_object.BasePage - INFO - Check if element ('css selector', '#searchForm .old-input') is present
+2023-03-10 22:10:10,147 - page_object.BasePage - INFO - Input ЫЪь in input <selenium.webdriver.remote.webelement.WebElement (session="71972fc3c62e9767f16bf46e533b47f1", element="4a112577-0d69-46db-9e52-3bff62bf2dd9")>
+2023-03-10 22:10:10,147 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="71972fc3c62e9767f16bf46e533b47f1", element="4a112577-0d69-46db-9e52-3bff62bf2dd9")>
+2023-03-10 22:10:11,165 - page_object.BasePage - INFO - Check if element ('css selector', '.find_button .btn3') is present
+2023-03-10 22:10:11,189 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="71972fc3c62e9767f16bf46e533b47f1", element="04e1413c-0448-4a20-b689-057ad9c7fc30")>
+2023-03-10 22:10:13,252 - page_object.BasePage - INFO - Check if element ('xpath', '/html/body/main/div[6]/div/div/div/div/div/div[1]/section[4]/p') is present
+2023-03-10 22:10:28,281 - page_object.BasePage - INFO - Opening url: https://spb.ticketland.ru/login
+2023-03-10 22:10:35,424 - page_object.BasePage - INFO - Check if element ('css selector', '#searchForm .old-input') is present
+2023-03-10 22:10:35,971 - page_object.BasePage - INFO - Input Длинный поисковый запрос ввежу в поисковую строку in input <selenium.webdriver.remote.webelement.WebElement (session="0e72bda2056197d9dd32b15acf623b19", element="f179f4cf-6c7d-46f7-8052-70511b902b1b")>
+2023-03-10 22:10:35,972 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="0e72bda2056197d9dd32b15acf623b19", element="f179f4cf-6c7d-46f7-8052-70511b902b1b")>
+2023-03-10 22:10:37,161 - page_object.BasePage - INFO - Check if element ('css selector', '.find_button .btn3') is present
+2023-03-10 22:10:37,191 - page_object.BasePage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="0e72bda2056197d9dd32b15acf623b19", element="1a5be70b-487c-4b6d-8a44-ebeb104f609c")>
+2023-03-10 22:10:39,376 - page_object.BasePage - INFO - Check if element ('xpath', '/html/body/main/div[6]/div/div/div/div/div/div[1]/section[4]/p') is present
+2023-03-10 22:20:27,740 - page_object.BasePage - INFO - ====== Started: 1678476027 ======
+2023-03-10 22:20:27,740 - page_object.BasePage - INFO - ====== Finished: 1678476027 ======
