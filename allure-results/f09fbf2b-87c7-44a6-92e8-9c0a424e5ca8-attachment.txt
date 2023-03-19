@@ -1,7 +1,0 @@
-[32mINFO    [0m page_object.BasePage:BasePage.py:66 Opening url: https://spb.ticketland.ru/login
-[32mINFO    [0m page_object.BasePage:BasePage.py:42 Check if element ('css selector', '#searchForm .old-input') is present
-[32mINFO    [0m page_object.BasePage:BasePage.py:35 Input ___!"@ in input <selenium.webdriver.remote.webelement.WebElement (session="02d48133c59c632c8baa031563c8f7f3", element="32ef6c9a-41c9-4226-a422-1260b2c69414")>
-[32mINFO    [0m page_object.BasePage:BasePage.py:30 Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="02d48133c59c632c8baa031563c8f7f3", element="32ef6c9a-41c9-4226-a422-1260b2c69414")>
-[32mINFO    [0m page_object.BasePage:BasePage.py:42 Check if element ('css selector', '.find_button .btn3') is present
-[32mINFO    [0m page_object.BasePage:BasePage.py:30 Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="02d48133c59c632c8baa031563c8f7f3", element="6c0c3d43-92f4-48ab-a3fe-db5b2d25e709")>
-[32mINFO    [0m page_object.BasePage:BasePage.py:42 Check if element ('xpath', '/html/body/main/div[5]/div/div/div/div/div/div[1]/section[4]/p') is present

@@ -1,7 +1,0 @@
-[32mINFO    [0m page_object.BasePage:BasePage.py:66 Opening url: https://spb.ticketland.ru/login
-[32mINFO    [0m page_object.BasePage:BasePage.py:42 Check if element ('css selector', '#searchForm .old-input') is present
-[32mINFO    [0m page_object.BasePage:BasePage.py:35 Input Длинный поисковый запрос ввежу в поисковую строку in input <selenium.webdriver.remote.webelement.WebElement (session="a23b6b6705555fea696eb0e59367ced5", element="8ca27b2a-ea47-49e4-a2fc-360e790a1115")>
-[32mINFO    [0m page_object.BasePage:BasePage.py:30 Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="a23b6b6705555fea696eb0e59367ced5", element="8ca27b2a-ea47-49e4-a2fc-360e790a1115")>
-[32mINFO    [0m page_object.BasePage:BasePage.py:42 Check if element ('css selector', '.find_button .btn3') is present
-[32mINFO    [0m page_object.BasePage:BasePage.py:30 Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="a23b6b6705555fea696eb0e59367ced5", element="9bcf978e-c2d1-4fd1-a5bf-5ef1634baa37")>
-[32mINFO    [0m page_object.BasePage:BasePage.py:42 Check if element ('xpath', '/html/body/main/div[5]/div/div/div/div/div/div[1]/section[4]/p') is present
