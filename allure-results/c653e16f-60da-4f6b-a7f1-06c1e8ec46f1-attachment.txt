@@ -1,0 +1,7 @@
+[32mINFO    [0m page_object.BasePage:BasePage.py:66 Opening url: https://spb.ticketland.ru/login/reminder
+[32mINFO    [0m page_object.BasePage:BasePage.py:42 Check if element ('name', 'contact') is present
+[32mINFO    [0m page_object.BasePage:BasePage.py:35 Input !#? in input <selenium.webdriver.remote.webelement.WebElement (session="b8b17e5d981746044c3d1cf421fa3772", element="acdbc825-48f4-448a-a65d-38fcdbe12494")>
+[32mINFO    [0m page_object.BasePage:BasePage.py:30 Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="b8b17e5d981746044c3d1cf421fa3772", element="acdbc825-48f4-448a-a65d-38fcdbe12494")>
+[32mINFO    [0m page_object.BasePage:BasePage.py:42 Check if element ('css selector', '.registration-button') is present
+[32mINFO    [0m page_object.BasePage:BasePage.py:30 Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="b8b17e5d981746044c3d1cf421fa3772", element="cc671bc4-d501-4b9e-8238-572bf9844831")>
+[32mINFO    [0m page_object.BasePage:BasePage.py:42 Check if element ('css selector', '.reg-email-error') is present
